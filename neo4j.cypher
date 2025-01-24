@@ -40,7 +40,7 @@ MERGE (jmpImp)-[fits:FITS_IN]->(jmpPump)
 ////////////////////////////////////////////////////////////////////////
 // 3) Motore (Engine)
 ////////////////////////////////////////////////////////////////////////
-MERGE (engine:Engine {model: row.`Engine Model`})
+MERGE (engine:Engine {code: row.`Engine Model`})
   ON CREATE SET
     engine.id = randomUUID(),
     engine.createdAt = datetime(),
@@ -69,7 +69,7 @@ MERGE (jmpPump)-[rcompat:COMPATIBLE_WITH]->(engine)
 
 // Se Pump P/N e` vuoto o "N/A", lo saltiamo
 WITH row, jmpPump, engine, comp
-WHERE NOT (row.`Pump P/N` IS NULL OR row.`Pump P/N` = "" OR toUpper(row.`Pump P/N`) = "N/A")
+WHERE NOT (row.`Pump P/N` IS NULL OR row.`Pump P/N` = "" OR toUpper(row.`row`) = "N/A")
 
 MERGE (compPump:Pump {code: row.`Pump P/N`})
   ON CREATE SET
