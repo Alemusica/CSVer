@@ -1,0 +1,629 @@
+Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
+89,pump/pompa 10170-0011,500107GT,500207GT,,,JABSCO,Inboard_Engines
+90,pump/pompa 10190-0011,500107GT,500207GT,,,JABSCO,Inboard_Engines
+91,pump/pompa 10-35115-2,500101GX,500201GX,,,JABSCO,Inboard_Engines
+92,pump/pompa 10420,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+93,pump/pompa 10490,500145GT, ,,,JABSCO,Inboard_Engines
+94,pump/pompa 10490-0201,500145GT,,,,JABSCO,Inboard_Engines
+95,pump/pompa 10490-07,500145GT, ,,,JABSCO,Inboard_Engines
+96,pump/pompa 10490-207,500145GT, ,,,JABSCO,Inboard_Engines
+97,pump/pompa 10550-01,500107GT,500207GT,,,JABSCO,Inboard_Engines
+98,pump/pompa 10550-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+99,pump/pompa 10550-205,500107GT,500207GT,,,JABSCO,Inboard_Engines
+100,pump/pompa 10590,500145GT, ,,,JABSCO,Inboard_Engines
+101,pump/pompa 10590-0031,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+102,pump/pompa 10590-0041,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+103,pump/pompa 10590-01,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+104,pump/pompa 10590-0111,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+105,pump/pompa 10590-0141,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+106,pump/pompa 10590-0201,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+107,pump/pompa 10590-0341,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+108,pump/pompa 10590-21,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+109,pump/pompa 10590-22,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+110,pump/pompa 10590-61,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+111,pump/pompa 10590-62,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+112,pump/pompa 10590-63,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+113,pump/pompa 10630,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+114,pump/pompa 10630-01,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+115,pump/pompa 10630-07,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+116,pump/pompa 10630-200,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+117,pump/pompa 10630-207,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+118,pump/pompa 10630-57,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+119,pump/pompa 10650,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+120,pump/pompa 10650-200,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+121,pump/pompa 10660,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+122,pump/pompa 10660-200,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+123,pump/pompa 10670,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+124,pump/pompa 10670-01,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+125,pump/pompa 10670-10,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+126,pump/pompa 10670-11,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+127,pump/pompa 10670-200,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+128,pump/pompa 10670-201,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+129,pump/pompa 10670-210,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+130,pump/pompa 10670-211,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+131,pump/pompa 10680,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+132,pump/pompa 10680-01,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+133,pump/pompa 10680-10,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+134,pump/pompa 10680-11,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+135,pump/pompa 10680-200,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+136,pump/pompa 10680-201,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+137,pump/pompa 10680-210,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+138,pump/pompa 10680-211,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+139,pump/pompa 10770-0051,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+140,pump/pompa 10770-0111,500135T,500235T,,,JABSCO,Inboard_Engines
+141,pump/pompa 10770-0151,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+142,pump/pompa 10770-0331,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+143,pump/pompa 10770-0351,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+144,pump/pompa 10770-0531,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+145,pump/pompa 10770-07,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+146,pump/pompa 10770-57,500105GT,500205GT,,,JABSCO,Inboard_Engines
+147,pump/pompa 10770-62,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+148,pump/pompa 10800-21,500114T,500214T,,,JABSCO,Inboard_Engines
+149,pump/pompa 10880-0051,500135T,500235T,,,JABSCO,Inboard_Engines
+150,pump/pompa 10880-0101,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+151,pump/pompa 10880-0151,500135T,500235T,,,JABSCO,Inboard_Engines
+152,pump/pompa 10880-07,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+153,pump/pompa 10880-21,500105GT,500205GT,,,JABSCO,Inboard_Engines
+154,pump/pompa 10880-2461,500135T,500235T,,,JABSCO,Inboard_Engines
+155,pump/pompa 10880-2561,500135T,500235T,,,JABSCO,Inboard_Engines
+156,pump/pompa 10880-2611,500135T,500235T,,,JABSCO,Inboard_Engines
+157,pump/pompa 10880-62,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+158,pump/pompa 10890-01,500105GT,500205GT,RK0002,,JABSCO,Inboard_Engines
+159,pump/pompa 10950-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+160,pump/pompa 10950-201,500107GT,500207GT,,,JABSCO,Inboard_Engines
+161,pump/pompa 10950-204,500107GT,500207GT,,,JABSCO,Inboard_Engines
+162,pump/pompa 10950-205,500107GT,500207GT,,,JABSCO,Inboard_Engines
+163,pump/pompa 10950-2101,500107GT,500207GT,,,JABSCO,Inboard_Engines
+164,pump/pompa 10950-2141,500107GT,500207GT,,,JABSCO,Inboard_Engines
+165,pump/pompa 10950-2201,500107GT,500207GT,,,JABSCO,Inboard_Engines
+166,pump/pompa 10950-2241,500107GT,500207GT,,,JABSCO,Inboard_Engines
+167,pump/pompa 10950-2401,500107GT,500207GT,,,JABSCO,Inboard_Engines
+168,pump/pompa 10950-2441,500107GT,500207GT,,,JABSCO,Inboard_Engines
+169,pump/pompa 10950-2451,500107GT,500207GT,,,JABSCO,Inboard_Engines
+170,pump/pompa 10950-2601,500107GT,500207GT,,,JABSCO,Inboard_Engines
+171,pump/pompa 10950-2701,500107GT,500207GT,,,JABSCO,Inboard_Engines
+172,pump/pompa 10970,500107GT,500207GT,,,JABSCO,Inboard_Engines
+173,pump/pompa 10970-21,500107GT,500207GT,,,JABSCO,Inboard_Engines
+174,pump/pompa 10980-0051,500135T,500235T,,,JABSCO,Inboard_Engines
+175,pump/pompa 11000,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+176,pump/pompa 11000-01,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+177,pump/pompa 11100-01-01,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+178,pump/pompa 11100-31,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+179,pump/pompa 11110-0141,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+180,pump/pompa 11110-0151,500145GT, ,,,JABSCO,Inboard_Engines
+181,pump/pompa 11110-0541,500145GT, ,,,JABSCO,Inboard_Engines
+182,pump/pompa 11120-200,500114T,500214T,,,JABSCO,Inboard_Engines
+183,pump/pompa 11120-204,500114T,500214T,,,JABSCO,Inboard_Engines
+184,pump/pompa 11120-205,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+185,pump/pompa 11150-0011,500145GT, ,,,JABSCO,Inboard_Engines
+186,pump/pompa 11260-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+187,pump/pompa 11260-205,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+188,pump/pompa 11260-2101,500100GX,500200GX,,,JABSCO,Inboard_Engines
+189,pump/pompa 11260-211,500100GX,500200GX,,,JABSCO,Inboard_Engines
+190,pump/pompa 11260-2151,500100GX,500200GX,,,JABSCO,Inboard_Engines
+191,pump/pompa 11260-2211,500100GX,500200GX,,,JABSCO,Inboard_Engines
+192,pump/pompa 11410-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+193,pump/pompa 11430-01,500100GX,500200GX,,,JABSCO,Inboard_Engines
+194,pump/pompa 11470-200,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+195,pump/pompa 11570-200,500116GX,500216GX,,,JABSCO,Inboard_Engines
+196,pump/pompa 11590-204,500107GT,500207GT,,,JABSCO,Inboard_Engines
+197,pump/pompa 11600,500114T,500214T,,,JABSCO,Inboard_Engines
+198,pump/pompa 11620-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+199,pump/pompa 11620-211,500100GX,500200GX,,,JABSCO,Inboard_Engines
+200,pump/pompa 11650-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+201,pump/pompa 11740-200,500114T,500214T,,,JABSCO,Inboard_Engines
+202,pump/pompa 11740-205,500114T,500214T,,,JABSCO,Inboard_Engines
+203,pump/pompa 11790,500105GT,500205GT,,,JABSCO,Inboard_Engines
+204,pump/pompa 11790-1,500105GT,500205GT,,,JABSCO,Inboard_Engines
+205,pump/pompa 11850-0101,500107GT,500207GT,,,JABSCO,Inboard_Engines
+206,pump/pompa 11850-0701,500107GT,500207GT,,,JABSCO,Inboard_Engines
+207,pump/pompa 11850-0711,500107GT,500207GT,,,JABSCO,Inboard_Engines
+208,pump/pompa 11860-0001,500114T,500214T,,,JABSCO,Inboard_Engines
+209,pump/pompa 11860-0006,500114T,500214T,,,JABSCO,Inboard_Engines
+210,pump/pompa 11860-0007,500114T,500214T,,,JABSCO,Inboard_Engines
+211,pump/pompa 11870-0005,500135T,500235T,,,JABSCO,Inboard_Engines
+212,pump/pompa 11870-0006,500205GT,,,,JABSCO,Inboard_Engines
+213,pump/pompa 11870-0007,500135T,500235T,,,JABSCO,Inboard_Engines
+214,pump/pompa 12280-0001,500114T,500214T,,,JABSCO,Inboard_Engines
+215,pump/pompa 12580-0001,500138,500210,,,JABSCO,Inboard_Engines
+216,pump/pompa 12590-0001,500138,500238,,,JABSCO,Inboard_Engines
+217,pump/pompa 12590-0011,500110,500210,,,JABSCO,Inboard_Engines
+218,pump/pompa 14210-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+219,pump/pompa 14620,500102T,,,,JABSCO,Inboard_Engines
+220,pump/pompa 14940-0001,500130,,,,JABSCO,Inboard_Engines
+221,pump/pompa 1673-0001,500107GT,,,,JABSCO,Inboard_Engines
+222,pump/pompa 1673-1001,500107GT,,,,JABSCO,Inboard_Engines
+223,pump/pompa 1673-9001,500107GT,,,,JABSCO,Inboard_Engines
+224,pump/pompa 1673-9051,500107GT,500207GT,,,JABSCO,Inboard_Engines
+225,pump/pompa 17100 series,500114T,500214T,,,JABSCO,Inboard_Engines
+226,pump/pompa 17100-0001,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+227,pump/pompa 17100-0005,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+228,pump/pompa 17100-0011,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+229,pump/pompa 17120-0001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+230,pump/pompa 17350-0011,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+231,pump/pompa 17410-0001,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+232,pump/pompa 18200-0001,500152,,,,JABSCO,Inboard_Engines
+233,pump/pompa 18300-0000,500145GT, ,,,JABSCO,Inboard_Engines
+234,pump/pompa 18320-0000,500145GT, ,,,JABSCO,Inboard_Engines
+235,pump/pompa 18320-0001,500145GT, ,,,JABSCO,Inboard_Engines
+236,pump/pompa 18320-0002,500145GT, ,,,JABSCO,Inboard_Engines
+237,pump/pompa 18340-0000,500145GT, ,,,JABSCO,Inboard_Engines
+238,pump/pompa 18370-0000,500145GT, ,,,JABSCO,Inboard_Engines
+239,pump/pompa 18590-0000,500210,500210,,,JABSCO,Inboard_Engines
+240,pump/pompa 18770-0003,500144,,,,JABSCO,Inboard_Engines
+241,pump/pompa 18770-0004,500144,,,,JABSCO,Inboard_Engines
+242,pump/pompa 18770-0005,500144,,,,JABSCO,Inboard_Engines
+243,pump/pompa 18780-0001,500153,,,,JABSCO,Inboard_Engines
+244,pump/pompa 18780-0003,500153,,,,JABSCO,Inboard_Engines
+245,pump/pompa 18780-0013,500153,,,,JABSCO,Inboard_Engines
+246,pump/pompa 18790-0001,500153,,,,JABSCO,Inboard_Engines
+247,pump/pompa 18830 series,500107GT,500207GT,,,JABSCO,Inboard_Engines
+248,pump/pompa 18840 series,500107GT,500207GT,,,JABSCO,Inboard_Engines
+249,pump/pompa 21080-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+250,pump/pompa 21080-204,500107GT,500207GT,,,JABSCO,Inboard_Engines
+251,pump/pompa 21090-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+252,pump/pompa 21090-204,500105GT,500205GT,,,JABSCO,Inboard_Engines
+253,pump/pompa 21100,500114T,500214T,,,JABSCO,Inboard_Engines
+254,pump/pompa 21130-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+255,pump/pompa 21130-2101,500100GX,500200GX,,,JABSCO,Inboard_Engines
+256,pump/pompa 21140-200,500114T,500214T,,,JABSCO,Inboard_Engines
+257,pump/pompa 21140-201,500114T,500214T,,,JABSCO,Inboard_Engines
+258,pump/pompa 21140-204,500114T,500214T,,,JABSCO,Inboard_Engines
+259,pump/pompa 21140-2101,500114T,500214T,,,JABSCO,Inboard_Engines
+260,pump/pompa 21140-2141,500114T,500214T,,,JABSCO,Inboard_Engines
+261,pump/pompa 21140-2201,500114T,500214T,,,JABSCO,Inboard_Engines
+262,pump/pompa 21140-2241,500114T,500214T,,,JABSCO,Inboard_Engines
+263,pump/pompa 21140-2401,500114T,500214T,,,JABSCO,Inboard_Engines
+264,pump/pompa 21140-2441,500114T,500214T,,,JABSCO,Inboard_Engines
+265,pump/pompa 21140-2601,500114T,500214T,,,JABSCO,Inboard_Engines
+266,pump/pompa 21140-2641,500114T,500214T,,,JABSCO,Inboard_Engines
+267,pump/pompa 21140-2701,500114T,500214T,,,JABSCO,Inboard_Engines
+268,pump/pompa 21180,500105GT,500205GT,,,JABSCO,Inboard_Engines
+269,pump/pompa 21180-05,500105GT,500205GT,,,JABSCO,Inboard_Engines
+270,pump/pompa 21580-200,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+271,pump/pompa 21680-05,500135T,500235T,,,JABSCO,Inboard_Engines
+272,pump/pompa 21690,500107GT,500207GT,,,JABSCO,Inboard_Engines
+273,pump/pompa 21690-05,500107GT,500207GT,,,JABSCO,Inboard_Engines
+274,pump/pompa 21690-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+275,pump/pompa 21780,500105GT,500205GT,,,JABSCO,Inboard_Engines
+276,pump/pompa 21810,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+277,pump/pompa 21810-01,500105GT,500205GT,,,JABSCO,Inboard_Engines
+278,pump/pompa 21820-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+279,pump/pompa 21820-2001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+280,pump/pompa 21820-205,500107GT,500207GT,,,JABSCO,Inboard_Engines
+281,pump/pompa 21880-200,500114T,500214T,,,JABSCO,Inboard_Engines
+282,pump/pompa 21880-205,500114T,500214T,,,JABSCO,Inboard_Engines
+283,pump/pompa 21890,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+284,pump/pompa 21960-200,500114T,500214T,,,JABSCO,Inboard_Engines
+285,pump/pompa 21960-210,500114T,500214T,,,JABSCO,Inboard_Engines
+286,pump/pompa 21960-211,500114T,500214T,,,JABSCO,Inboard_Engines
+287,pump/pompa 21960-221,500114T,500214T,,,JABSCO,Inboard_Engines
+288,pump/pompa 21980,500105GT,500205GT,,,JABSCO,Inboard_Engines
+289,pump/pompa 21990,500145GT, ,,,JABSCO,Inboard_Engines
+290,pump/pompa 22040-01,500145GT, ,,,JABSCO,Inboard_Engines
+291,pump/pompa 22040-0131,500145GT, ,,,JABSCO,Inboard_Engines
+292,pump/pompa 22040-0501,500145GT, ,,,JABSCO,Inboard_Engines
+293,pump/pompa 22040-0531,500145GT, ,,,JABSCO,Inboard_Engines
+294,pump/pompa 22220-241,500104GT,,,,JABSCO,Inboard_Engines
+295,pump/pompa 22230-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+296,pump/pompa 22240,500116GX,500216GX,,,JABSCO,Inboard_Engines
+297,pump/pompa 22300-05,500104GT,,,,JABSCO,Inboard_Engines
+298,pump/pompa 22350-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+299,pump/pompa 22360,500116GX,500216GX,,,JABSCO,Inboard_Engines
+300,pump/pompa 22620,500116GX,500216GX,,,JABSCO,Inboard_Engines
+301,pump/pompa 22690-200,500114T,500214T,,,JABSCO,Inboard_Engines
+302,pump/pompa 22740-0151,500104GT,,,,JABSCO,Inboard_Engines
+303,pump/pompa 22740-0201,500104GT,,,,JABSCO,Inboard_Engines
+304,pump/pompa 22740-0251,500104GT,,,,JABSCO,Inboard_Engines
+305,pump/pompa 22740-0301,500104GT,,,,JABSCO,Inboard_Engines
+306,pump/pompa 22740-0351,500104GT,,,,JABSCO,Inboard_Engines
+307,pump/pompa 22740-0451,500104GT,,,,JABSCO,Inboard_Engines
+308,pump/pompa 22750-05,500104GT,,,,JABSCO,Inboard_Engines
+309,pump/pompa 22750-1101,500104GT,,,,JABSCO,Inboard_Engines
+310,pump/pompa 22750-1151,500104GT,,,,JABSCO,Inboard_Engines
+311,pump/pompa 22770,500116GX,500216GX,,,JABSCO,Inboard_Engines
+312,pump/pompa 22770-1051,500116GX,500216GX,,,JABSCO,Inboard_Engines
+313,pump/pompa 22770-1101,500116GX,500216GX,,,JABSCO,Inboard_Engines
+314,pump/pompa 22820-2051,500100GX,500200GX,,,JABSCO,Inboard_Engines
+315,pump/pompa 22820-2101,500100GX,500200GX,,,JABSCO,Inboard_Engines
+316,pump/pompa 22830-2001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+317,pump/pompa 22830-2051,500100GX,500200GX,,,JABSCO,Inboard_Engines
+318,pump/pompa 22830-2101,500100GX,500200GX,,,JABSCO,Inboard_Engines
+319,pump/pompa 22830-2151,500100GX,500200GX,,,JABSCO,Inboard_Engines
+320,pump/pompa 22830-2201,500100GX,500200GX,,,JABSCO,Inboard_Engines
+321,pump/pompa 22830-2301,500100GX,500200GX,,,JABSCO,Inboard_Engines
+322,pump/pompa 22940-2001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+323,pump/pompa 22940-2051,500100GX,500200GX,,,JABSCO,Inboard_Engines
+324,pump/pompa 22950-2031,500116GX,500216GX,,,JABSCO,Inboard_Engines
+325,pump/pompa 22960-1001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+326,pump/pompa 22960-2001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+327,pump/pompa 2300-9001,500114T,500214T,,,JABSCO,Inboard_Engines
+328,pump/pompa 2300-9004,500114T,500214T,,,JABSCO,Inboard_Engines
+329,pump/pompa 23010-0131,500106GT,500206GT,RK0003,,JABSCO,Inboard_Engines
+330,pump/pompa 23010-0531,500114T,500214T,,,JABSCO,Inboard_Engines
+331,pump/pompa 23020-1101,500104GT,,,,JABSCO,Inboard_Engines
+332,pump/pompa 23050-1031,500116GX,500216GX,,,JABSCO,Inboard_Engines
+333,pump/pompa 23060-1101,500116GX,500216GX,,,JABSCO,Inboard_Engines
+334,pump/pompa 23070-1151,500104GT,,,,JABSCO,Inboard_Engines
+335,pump/pompa 23080-1151,500104GT,,,,JABSCO,Inboard_Engines
+336,pump/pompa 23320-2001,500114T,500214T,,,JABSCO,Inboard_Engines
+337,pump/pompa 23320-2101,500114T,500214T,,,JABSCO,Inboard_Engines
+338,pump/pompa 23340-1001,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+339,pump/pompa 23340-1101,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+340,pump/pompa 23430-1001,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+341,pump/pompa 23430-1031,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+342,pump/pompa 23430-1041,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+343,pump/pompa 23430-1051,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+344,pump/pompa 23430-1201,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+345,pump/pompa 23430-1241,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+346,pump/pompa 23430-1251,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+347,pump/pompa 23430-1301,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+348,pump/pompa 23430-1401,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+349,pump/pompa 23430-1441,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+350,pump/pompa 23430-1501,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+351,pump/pompa 23430-1601,500114T,500214T,,,JABSCO,Inboard_Engines
+352,pump/pompa 23430-1641,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+353,pump/pompa 23430-1701,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+354,pump/pompa 23430-1901,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+355,pump/pompa 23480-2001,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+356,pump/pompa 23800-0201,500104GT,,,,JABSCO,Inboard_Engines
+357,pump/pompa 23800-0251,500104GT,,,,JABSCO,Inboard_Engines
+358,pump/pompa 23800-0351,500104GT,,,,JABSCO,Inboard_Engines
+359,pump/pompa 23800-0401,500104GT,,,,JABSCO,Inboard_Engines
+360,pump/pompa 2570-0011,500135T,500235T,,,JABSCO,Inboard_Engines
+361,pump/pompa 2620-0001,500156GX,,,,JABSCO,Inboard_Engines
+362,pump/pompa 2620-0051,500156GX,,,,JABSCO,Inboard_Engines
+363,pump/pompa 2620-1001,500156GX,,,,JABSCO,Inboard_Engines
+364,pump/pompa 2620-200,500116GX,500216GX,,,JABSCO,Inboard_Engines
+365,pump/pompa 2620-211,500116GX,500216GX,,,JABSCO,Inboard_Engines
+366,pump/pompa 2620-221,500116GX,500216GX,,,JABSCO,Inboard_Engines
+367,pump/pompa 2620-252,500116GX,500216GX,,,JABSCO,Inboard_Engines
+368,pump/pompa 2620-253,500116GX,500216GX,,,JABSCO,Inboard_Engines
+369,pump/pompa 2620-254,500116GX,500216GX,,,JABSCO,Inboard_Engines
+370,pump/pompa 2620-255,500116GX,500216GX,,,JABSCO,Inboard_Engines
+371,pump/pompa 2620-271,500116GX,500216GX,,,JABSCO,Inboard_Engines
+372,pump/pompa 2620-281,500116GX,500216GX,,,JABSCO,Inboard_Engines
+373,pump/pompa 28500-1251,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+374,pump/pompa 29300-1001,500121GX,,RK0007,,JABSCO,Inboard_Engines
+375,pump/pompa 29300-2001,500121GX,,RK0007,,JABSCO,Inboard_Engines
+376,pump/pompa 29300-2101,500121GX,,,,JABSCO,Inboard_Engines
+377,pump/pompa 29300-2101C,500121GX,,,,JABSCO,Inboard_Engines
+378,pump/pompa 29300-2151C,500121GX,,,,JABSCO,Inboard_Engines
+379,pump/pompa 29300-2201,500121GX,,RK0007,,JABSCO,Inboard_Engines
+380,pump/pompa 29300-2201C,500121GX,,RK0007,,JABSCO,Inboard_Engines
+381,pump/pompa 29300-2301,500121GX,,RK0007,,JABSCO,Inboard_Engines
+382,pump/pompa 29300-2401,500121GX,,RK0007,,JABSCO,Inboard_Engines
+383,pump/pompa 29300-2401C,500121GX,,RK0007,,JABSCO,Inboard_Engines
+384,pump/pompa 29300-2431,500121GX,,RK0007,,JABSCO,Inboard_Engines
+385,pump/pompa 29300-2501,500121GX,,RK0007,,JABSCO,Inboard_Engines
+386,pump/pompa 29300-2501C,500121GX,,,,JABSCO,Inboard_Engines
+387,pump/pompa 29300-2601C,500121GX,,RK0007,,JABSCO,Inboard_Engines
+388,pump/pompa 29350-1001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+389,pump/pompa 29350-1101,500100GX,500200GX,,,JABSCO,Inboard_Engines
+390,pump/pompa 29400-1001,500121GX,,,,JABSCO,Inboard_Engines
+391,pump/pompa 29400-1051,500121GX,,,,JABSCO,Inboard_Engines
+392,pump/pompa 29400-1101,500121GX,,,,JABSCO,Inboard_Engines
+393,pump/pompa 29400-1151,500121GX,,,,JABSCO,Inboard_Engines
+394,pump/pompa 29410-1101,500146X,,,,JABSCO,Inboard_Engines
+395,pump/pompa 29440-1001,500146X,,,,JABSCO,Inboard_Engines
+396,pump/pompa 29440-1051,500146X,,,,JABSCO,Inboard_Engines
+397,pump/pompa 29440-1101,500146X,,,,JABSCO,Inboard_Engines
+398,pump/pompa 29440-1201,500146X,,,,JABSCO,Inboard_Engines
+399,pump/pompa 29450-1101,500116GX,500216GX,,,JABSCO,Inboard_Engines
+400,pump/pompa 29450-1201,500116GX,500216GX,,,JABSCO,Inboard_Engines
+401,pump/pompa 29450-1231,500116GX,500216GX,,,JABSCO,Inboard_Engines
+402,pump/pompa 29450-1301,500116GX,500216GX,,,JABSCO,Inboard_Engines
+403,pump/pompa 29450-1401,500116GX,500216GX,,,JABSCO,Inboard_Engines
+404,pump/pompa 29450-2131,500116GX,500216GX,,,JABSCO,Inboard_Engines
+405,pump/pompa 29460-1001,500146X,,,,JABSCO,Inboard_Engines
+406,pump/pompa 29460-1101,500146X,,,,JABSCO,Inboard_Engines
+407,pump/pompa 29460-1201,500146X,,,,JABSCO,Inboard_Engines
+408,pump/pompa 29460-1251,500146X,,,,JABSCO,Inboard_Engines
+409,pump/pompa 29460-1301,500146X,,,,JABSCO,Inboard_Engines
+410,pump/pompa 29460-1401,500146X,,,,JABSCO,Inboard_Engines
+411,pump/pompa 29460-2231,500146X,,,,JABSCO,Inboard_Engines
+412,pump/pompa 29460-2501,500146X,,,,JABSCO,Inboard_Engines
+413,pump/pompa 29470-1101,500146X,,,,JABSCO,Inboard_Engines
+414,pump/pompa 29470-1231/C,500146X,,,,JABSCO,Inboard_Engines
+415,pump/pompa 29470-2031/C,500146X,,,,JABSCO,Inboard_Engines
+416,pump/pompa 29470-2131/C,500146X,,,,JABSCO,Inboard_Engines
+417,pump/pompa 29470-2201C,500146X,,,,JABSCO,Inboard_Engines
+418,pump/pompa 29470-2231/C,500146X,,,,JABSCO,Inboard_Engines
+419,pump/pompa 29470-2301/C,500146X,,,,JABSCO,Inboard_Engines
+420,pump/pompa 29470-2331/C,500146X,,,,JABSCO,Inboard_Engines
+421,pump/pompa 29470-2351/C,500146X,,,,JABSCO,Inboard_Engines
+422,pump/pompa 29470-2431/C,500146X,,,,JABSCO,Inboard_Engines
+423,pump/pompa 29470-2531/C,500146X,,,,JABSCO,Inboard_Engines
+424,pump/pompa 29480-2031/C,500146X,,,,JABSCO,Inboard_Engines
+425,pump/pompa 29480-2131,500146X,,,,JABSCO,Inboard_Engines
+426,pump/pompa 29480-2231/C,500146X,,,,JABSCO,Inboard_Engines
+427,pump/pompa 29480-2151,500146X,,,,JABSCO,Inboard_Engines
+428,pump/pompa 29490-2001C,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+429,pump/pompa 29490-2111C,500146X,,,,JABSCO,Inboard_Engines
+430,pump/pompa 29500,500107GT,500207GT,,,JABSCO,Inboard_Engines
+431,pump/pompa 29500-1001,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+432,pump/pompa 29500-1101,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+433,pump/pompa 29500-1201,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+434,pump/pompa 29500-1251,500107GT,500207GT,,,JABSCO,Inboard_Engines
+435,pump/pompa 29500-1351,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+436,pump/pompa 29500-1401,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+437,pump/pompa 29500-1451,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+438,pump/pompa 29500-1501,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+439,pump/pompa 29500-1901,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+440,pump/pompa 29500-3001,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+441,pump/pompa 29520-2001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+442,pump/pompa 29530-2001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+443,pump/pompa 29600-1001,500114T,500214T,,,JABSCO,Inboard_Engines
+444,pump/pompa 29600-1101,500114T,500214T,,,JABSCO,Inboard_Engines
+445,pump/pompa 29600-1201,500114T,500214T,,,JABSCO,Inboard_Engines
+446,pump/pompa 29620-2001,500114T,500214T,,,JABSCO,Inboard_Engines
+447,pump/pompa 29630-1001,500114T,500214T,,,JABSCO,Inboard_Engines
+448,pump/pompa 29700-1101,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+449,pump/pompa 29700-1201,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+450,pump/pompa 29700-1301,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+451,pump/pompa 29700-1331,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+452,pump/pompa 29700-1401,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+453,pump/pompa 29750-1001,500105GT,500205GT,,,JABSCO,Inboard_Engines
+454,pump/pompa 29770-0001,500135T,500235T,,,JABSCO,Inboard_Engines
+455,pump/pompa 29860-2001,500144,,,,JABSCO,Inboard_Engines
+456,pump/pompa 29860-2101,500144,,,,JABSCO,Inboard_Engines
+457,pump/pompa 29860-2201,500144,,,,JABSCO,Inboard_Engines
+458,pump/pompa 29870-2001,500144,,,,JABSCO,Inboard_Engines
+459,pump/pompa 29870-2101,500144,,,,JABSCO,Inboard_Engines
+460,pump/pompa 29880-0001,500144,,,,JABSCO,Inboard_Engines
+461,pump/pompa 29880-0101,500144,,,,JABSCO,Inboard_Engines
+462,pump/pompa 29880-0201,500144,,,,JABSCO,Inboard_Engines
+463,pump/pompa 29890-0001,500144,,,,JABSCO,Inboard_Engines
+464,pump/pompa 3270-000,500107GT,500207GT,,,JABSCO,Inboard_Engines
+465,pump/pompa 3270-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+466,pump/pompa 3270-0003,500107GT,500207GT,,,JABSCO,Inboard_Engines
+467,pump/pompa 3270-1951,500107GT,500207GT,,,JABSCO,Inboard_Engines
+468,pump/pompa 3270-20,500107GT,500207GT,,,JABSCO,Inboard_Engines
+469,pump/pompa 3270-200,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+470,pump/pompa 3270-205,500107GT,500207GT,,,JABSCO,Inboard_Engines
+471,pump/pompa 3270-2101,500107GT,500207GT,,,JABSCO,Inboard_Engines
+472,pump/pompa 3270-2301,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+473,pump/pompa 3270-2401,500107GT,500207GT,,,JABSCO,Inboard_Engines
+474,pump/pompa 3270-241,500107GT,500207GT,,,JABSCO,Inboard_Engines
+475,pump/pompa 3270-251,500107GT,500207GT,,,JABSCO,Inboard_Engines
+476,pump/pompa 3270-261,500107GT,500207GT,,,JABSCO,Inboard_Engines
+477,pump/pompa 3270-271,500107GT,500207GT,,,JABSCO,Inboard_Engines
+478,pump/pompa 3270-2801,500107GT,500207GT,,,JABSCO,Inboard_Engines
+479,pump/pompa 3280-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+480,pump/pompa 3290-9001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+481,pump/pompa 3370-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+482,pump/pompa 3370-201,500107GT,500207GT,,,JABSCO,Inboard_Engines
+483,pump/pompa 3370-221,500107GT,500207GT,,,JABSCO,Inboard_Engines
+484,pump/pompa 3370-241,500107GT,500207GT,,,JABSCO,Inboard_Engines
+485,pump/pompa 3370-251,500107GT,500207GT,,,JABSCO,Inboard_Engines
+486,pump/pompa 3370-271,500107GT,500207GT,,,JABSCO,Inboard_Engines
+487,pump/pompa 3380-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+488,pump/pompa 3380-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+489,pump/pompa 3380-221,500107GT,500207GT,,,JABSCO,Inboard_Engines
+490,pump/pompa 3480-9002,500107GT,500207GT,,,JABSCO,Inboard_Engines
+491,pump/pompa 3480-9011,500107GT,500207GT,,,JABSCO,Inboard_Engines
+492,pump/pompa 3590-9001,500114T,500214T,,,JABSCO,Inboard_Engines
+493,pump/pompa 3890-9011,500107GT,500207GT,,,JABSCO,Inboard_Engines
+494,pump/pompa 42730-0000,500120GT,,,,JABSCO,Inboard_Engines
+495,pump/pompa 43210-0001,500148,,,,JABSCO,Inboard_Engines
+496,pump/pompa 4360,500105GT,500205GT,,,JABSCO,Inboard_Engines
+497,pump/pompa 4410,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+498,pump/pompa 4530-0001,500100GX,500200GX,,,JABSCO,Inboard_Engines
+499,pump/pompa 4560-0001,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+500,pump/pompa 4760,500116GX,500216GX,,,JABSCO,Inboard_Engines
+501,pump/pompa 4760-01,500116GX,500216GX,,,JABSCO,Inboard_Engines
+502,pump/pompa 4760-101,500116GX,500216GX,,,JABSCO,Inboard_Engines
+503,pump/pompa 4760-111,500116GX,500216GX,,,JABSCO,Inboard_Engines
+504,pump/pompa 4760-141,500116GX,500216GX,,,JABSCO,Inboard_Engines
+505,pump/pompa 4760-151,500116GX,500216GX,,,JABSCO,Inboard_Engines
+506,pump/pompa 4760-21,500116GX,500216GX,,,JABSCO,Inboard_Engines
+507,pump/pompa 4760-41,500116GX,500216GX,,,JABSCO,Inboard_Engines
+508,pump/pompa 4760-51,500116GX,500216GX,,,JABSCO,Inboard_Engines
+509,pump/pompa 4760-61,500116GX,500216GX,,,JABSCO,Inboard_Engines
+510,pump/pompa 4760-71,500116GX,500216GX,,,JABSCO,Inboard_Engines
+511,pump/pompa 4760-81,500116GX,500216GX,,,JABSCO,Inboard_Engines
+512,pump/pompa 4760-91,500116GX,500216GX,,,JABSCO,Inboard_Engines
+513,pump/pompa 4780,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+514,pump/pompa 4800-101,500105GT,500205GT,,,JABSCO,Inboard_Engines
+515,pump/pompa 4800-111,500105GT,500205GT,,,JABSCO,Inboard_Engines
+516,pump/pompa 4800-161,500105GT,500205GT,,,JABSCO,Inboard_Engines
+517,pump/pompa 4800-171,500105GT,500205GT,,,JABSCO,Inboard_Engines
+518,pump/pompa 4800-21,500105GT,500205GT,,,JABSCO,Inboard_Engines
+519,pump/pompa 4800—21-01,500105GT,500205GT,,,JABSCO,Inboard_Engines
+520,pump/pompa 4800-41,500105GT,500205GT,,,JABSCO,Inboard_Engines
+521,pump/pompa 4800-51,500105GT,500205GT,,,JABSCO,Inboard_Engines
+522,pump/pompa 4800-53,500105GT,500205GT,,,JABSCO,Inboard_Engines
+523,pump/pompa 4800-54,500105GT,500205GT,,,JABSCO,Inboard_Engines
+524,pump/pompa 4800-71,500105GT,500205GT,,,JABSCO,Inboard_Engines
+525,pump/pompa 4900-01,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+526,pump/pompa 4900-200,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+527,pump/pompa 4900-201,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+528,pump/pompa 4900-205,500108CGT,500208CGT,,,JABSCO,Inboard_Engines
+529,pump/pompa 50080-2001,500114T,,RK0004,,JABSCO,Inboard_Engines
+530,pump/pompa 50080-2101,500114T,,RK0004,,JABSCO,Inboard_Engines
+531,pump/pompa 50080-2201,500114T,,RK0004,,JABSCO,Inboard_Engines
+532,pump/pompa 50080-2301,500114T,,RK0004,,JABSCO,Inboard_Engines
+533,pump/pompa 50080-2321,500114T,,RK0004,,JABSCO,Inboard_Engines
+534,pump/pompa 50200-2011,500135T,,,,JABSCO,Inboard_Engines
+535,pump/pompa 50200-2111,500135T,,,,JABSCO,Inboard_Engines
+536,pump/pompa 50200-2311,500135T,500235T,,,JABSCO,Inboard_Engines
+537,pump/pompa 50220-0011,500135T,500235T,,,JABSCO,Inboard_Engines
+538,pump/pompa 50220-0111,500135T,500235T,,,JABSCO,Inboard_Engines
+539,pump/pompa 50220-0211,500135T,500235T,,,JABSCO,Inboard_Engines
+540,pump/pompa 50220-0311,500135T,500235T,,,JABSCO,Inboard_Engines
+541,pump/pompa 50270-0011,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+542,pump/pompa 50270-0111,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+543,pump/pompa 50270-0211,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+544,pump/pompa 50270-0311,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+545,pump/pompa 50270-0911,500145GT, ,,,JABSCO,Inboard_Engines
+546,pump/pompa 50270-2011,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+547,pump/pompa 50270-2111,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+548,pump/pompa 50270-2211,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+549,pump/pompa 50270-2311,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+550,pump/pompa 50270-2911,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+551,pump/pompa 50350-1001,500177GT,,RK0009, ,JABSCO,Inboard_Engines
+552,pump/pompa 50410-1201,500133G,,,,JABSCO,Inboard_Engines
+553,pump/pompa 50410-1251,500133G,,,,JABSCO,Inboard_Engines
+554,pump/pompa 50410-1301,500133G,,,,JABSCO,Inboard_Engines
+555,pump/pompa 50410-1351,500133G,,,,JABSCO,Inboard_Engines
+556,pump/pompa 50410-1401,500133G,,,,JABSCO,Inboard_Engines
+557,pump/pompa 50410-1501,500133G,,,,JABSCO,Inboard_Engines
+558,pump/pompa 51080-2001,500114T,,,,JABSCO,Inboard_Engines
+559,pump/pompa 51080-2041,500114T,,RK0004,,JABSCO,Inboard_Engines
+560,pump/pompa 51200-2011,500135T,500235T,,,JABSCO,Inboard_Engines
+561,pump/pompa 51220-0011,500135T,500235T,,,JABSCO,Inboard_Engines
+562,pump/pompa 51270-0001,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+563,pump/pompa 51270-0011,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+564,pump/pompa 51270-2011,500145GT,,,,JABSCO,Inboard_Engines
+565,pump/pompa 51510-2001,500121GX,,RK0007,,JABSCO,Inboard_Engines
+566,pump/pompa 51510-9001,500121GX,,RK0007,,JABSCO,Inboard_Engines
+567,pump/pompa 51520-9001,500121GX,,RK0007,,JABSCO,Inboard_Engines
+568,pump/pompa 52010-0051,500121GX,,RK0007,,JABSCO,Inboard_Engines
+569,pump/pompa 52010-2001,500121GX,,,,JABSCO,Inboard_Engines
+570,pump/pompa 52010-2051,500121GX,,,,JABSCO,Inboard_Engines
+571,pump/pompa 52020-031,500146X,,,,JABSCO,Inboard_Engines
+572,pump/pompa 52020-2001,500146X,,,,JABSCO,Inboard_Engines
+573,pump/pompa 52020-2031,500146X,,,,JABSCO,Inboard_Engines
+574,pump/pompa 52020-2051,500146X,,,,JABSCO,Inboard_Engines
+575,pump/pompa 52040-2001,500107GT,,,,JABSCO,Inboard_Engines
+576,pump/pompa 52040-2401,500107GT,500207GT,,,JABSCO,Inboard_Engines
+577,pump/pompa 52080-2001,500114T,,RK0004,,JABSCO,Inboard_Engines
+578,pump/pompa 52080-2041,500114T,500214T,,,JABSCO,Inboard_Engines
+579,pump/pompa 52080-2051,500114T,500214T,,,JABSCO,Inboard_Engines
+580,pump/pompa 52200-2001,500135T,,,,JABSCO,Inboard_Engines
+581,pump/pompa 52200-2011,500135T,500235T,,,JABSCO,Inboard_Engines
+582,pump/pompa 52200-2041,500135T,500235T,,,JABSCO,Inboard_Engines
+583,pump/pompa 52200-2051,500135T,500235T,,,JABSCO,Inboard_Engines
+584,pump/pompa 52220-0011,500135T,500235T,,,JABSCO,Inboard_Engines
+585,pump/pompa 52220-0041,500135T,500235T,,,JABSCO,Inboard_Engines
+586,pump/pompa 52220-0051,500135T,500235T,,,JABSCO,Inboard_Engines
+587,pump/pompa 52270-0011,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+588,pump/pompa 52270-2011,500145GT, ,RK0008,,JABSCO,Inboard_Engines
+589,pump/pompa 52270-2041,500145GT, ,,,JABSCO,Inboard_Engines
+590,pump/pompa 5330-9001,500114T,500214T,,,JABSCO,Inboard_Engines
+591,pump/pompa 5330-9101,500114T,500214T,,,JABSCO,Inboard_Engines
+592,pump/pompa 5560-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+593,pump/pompa 5640,500116GX,500216GX,,,JABSCO,Inboard_Engines
+594,pump/pompa 5660,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+595,pump/pompa 5660-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+596,pump/pompa 5850-0001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+598,pump/pompa 5870,500107GT,500207GT,,,JABSCO,Inboard_Engines
+599,pump/pompa 6030-21,500114T,500214T,,,JABSCO,Inboard_Engines
+600,pump/pompa 6030-41,500114T,500214T,,,JABSCO,Inboard_Engines
+601,pump/pompa 6030-61,500114T,500214T,,,JABSCO,Inboard_Engines
+602,pump/pompa 6030-71,500114T,500214T,,,JABSCO,Inboard_Engines
+603,pump/pompa 6400-0001,500135T,500235T,,,JABSCO,Inboard_Engines
+604,pump/pompa 6400-0004,500135T,500235T,,,JABSCO,Inboard_Engines
+605,pump/pompa 6400-0051,500135T,500235T,,,JABSCO,Inboard_Engines
+606,pump/pompa 6400-200,500105GT,500205GT,,,JABSCO,Inboard_Engines
+607,pump/pompa 6400-205,500105GT,500205GT,,,JABSCO,Inboard_Engines
+608,pump/pompa 6400-207,500105GT,500205GT,,,JABSCO,Inboard_Engines
+609,pump/pompa 6420-0101,500114T,500214T,,,JABSCO,Inboard_Engines
+610,pump/pompa 6420-200,500114T,500214T,,,JABSCO,Inboard_Engines
+611,pump/pompa 6420-2001,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+612,pump/pompa 6420-204,500114T,500214T,,,JABSCO,Inboard_Engines
+613,pump/pompa 6420-2041,500114T,500214T,RK0004,,JABSCO,Inboard_Engines
+614,pump/pompa 6420-205,500114T,500214T,,,JABSCO,Inboard_Engines
+615,pump/pompa 6420-2051,500114T,500214T,,,JABSCO,Inboard_Engines
+616,pump/pompa 6490-122,500107GT,500207GT,,,JABSCO,Inboard_Engines
+617,pump/pompa 6490-123,500107GT,500207GT,,,JABSCO,Inboard_Engines
+618,pump/pompa 6490-132,500107GT,500207GT,,,JABSCO,Inboard_Engines
+619,pump/pompa 6490-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+620,pump/pompa 6490-210,500107GT,500207GT,,,JABSCO,Inboard_Engines
+621,pump/pompa 6490-222,500107GT,500207GT,,,JABSCO,Inboard_Engines
+622,pump/pompa 6490-223,500107GT,500207GT,,,JABSCO,Inboard_Engines
+623,pump/pompa 6490-224,500107GT,500207GT,,,JABSCO,Inboard_Engines
+624,pump/pompa 6490-225,500107GT,500207GT,,,JABSCO,Inboard_Engines
+625,pump/pompa 6490-231,500107GT,500207GT,,,JABSCO,Inboard_Engines
+626,pump/pompa 6490-2901,500107GT,500207GT,,,JABSCO,Inboard_Engines
+627,pump/pompa 6520-200,500114T,500214T,,,JABSCO,Inboard_Engines
+628,pump/pompa 6520-205,500114T,500214T,,,JABSCO,Inboard_Engines
+629,pump/pompa 6520-251,500114T,500214T,,,JABSCO,Inboard_Engines
+630,pump/pompa 6520-51,500114T,500214T,,,JABSCO,Inboard_Engines
+631,pump/pompa 6540-200,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+632,pump/pompa 6540-201,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+633,pump/pompa 6540-211,500116GX,500216GX,RK0006,,JABSCO,Inboard_Engines
+634,pump/pompa 6590-0001,500135T,,,,JABSCO,Inboard_Engines
+635,pump/pompa 6590-0004,500135T,,,,JABSCO,Inboard_Engines
+636,pump/pompa 6590-200,500105GT,500205GT,,,JABSCO,Inboard_Engines
+637,pump/pompa 6640-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+638,pump/pompa 6640-205,500100GX,500200GX,,,JABSCO,Inboard_Engines
+639,pump/pompa 6710,500116GX,500216GX,,,JABSCO,Inboard_Engines
+640,pump/pompa 7120-9001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+641,pump/pompa 7320-9001,500107GT,500207GT,,,JABSCO,Inboard_Engines
+642,pump/pompa 7420-0001,500135T,,,,JABSCO,Inboard_Engines
+643,pump/pompa 7420-0004,500135T,,,,JABSCO,Inboard_Engines
+644,pump/pompa 7420-0101,500135T,500235T,,,JABSCO,Inboard_Engines
+645,pump/pompa 7600-201,500138,500238,,,JABSCO,Inboard_Engines
+646,pump/pompa 777-0001,500114T,,,,JABSCO,Inboard_Engines
+647,pump/pompa 777-9001,500114T,,,,JABSCO,Inboard_Engines
+648,pump/pompa 777-9004,500114T,,,,JABSCO,Inboard_Engines
+649,pump/pompa 777-9051,500114T,500214T,,,JABSCO,Inboard_Engines
+650,pump/pompa 7870-200,500105GT,500205GT,,,JABSCO,Inboard_Engines
+651,pump/pompa 7870-201,500105GT,500205GT,,,JABSCO,Inboard_Engines
+652,pump/pompa 7870-221,500105GT,500205GT,,,JABSCO,Inboard_Engines
+653,pump/pompa 7870-231,500105GT,500205GT,,,JABSCO,Inboard_Engines
+654,pump/pompa 7870-251,500105GT,500205GT,,,JABSCO,Inboard_Engines
+655,pump/pompa 8170-9001,500114T,500214T,,,JABSCO,Inboard_Engines
+656,pump/pompa 823-200,500105GT,500205GT,,,JABSCO,Inboard_Engines
+657,pump/pompa 823-205,500105GT,500205GT,,,JABSCO,Inboard_Engines
+658,pump/pompa 8470-0711,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+659,pump/pompa 8470-0911,500107GT,500207GT,RK0005,,JABSCO,Inboard_Engines
+660,pump/pompa 9040-0511,500130,500230,,,JABSCO,Inboard_Engines
+661,pump/pompa 9360,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+662,pump/pompa 9380,500107GT,500207GT,,,JABSCO,Inboard_Engines
+663,pump/pompa 9400,500116GX,500216GX,,,JABSCO,Inboard_Engines
+664,pump/pompa 9400-01,500116GX,500216GX,,,JABSCO,Inboard_Engines
+665,pump/pompa 9400-200,500116GX,500216GX,,,JABSCO,Inboard_Engines
+666,pump/pompa 9430,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+667,pump/pompa 9430-01,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+668,pump/pompa 9430-21,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+669,pump/pompa 9430-211,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+670,pump/pompa 9430-51,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+671,pump/pompa 9560,500100GX,500200GX,RK0001,,JABSCO,Inboard_Engines
+672,pump/pompa 9700,500114T,500214T,,,JABSCO,Inboard_Engines
+673,pump/pompa 9700-01,500114T,500214T,,,JABSCO,Inboard_Engines
+674,pump/pompa 9700-04,500114T,500214T,,,JABSCO,Inboard_Engines
+675,pump/pompa 9700-05,500114T,500214T,,,JABSCO,Inboard_Engines
+676,pump/pompa 9700-101,500114T,500214T,,,JABSCO,Inboard_Engines
+677,pump/pompa 9700-131,500114T,500214T,,,JABSCO,Inboard_Engines
+678,pump/pompa 9700-141,500114T,500214T,,,JABSCO,Inboard_Engines
+679,pump/pompa 9700-151,500114T,500214T,,,JABSCO,Inboard_Engines
+680,pump/pompa 9700-162,500114T,500214T,,,JABSCO,Inboard_Engines
+681,pump/pompa 9700-171,500114T,500214T,,,JABSCO,Inboard_Engines
+682,pump/pompa 9700-181,500114T,500214T,,,JABSCO,Inboard_Engines
+683,pump/pompa 9700-21,500114T,500214T,,,JABSCO,Inboard_Engines
+684,pump/pompa 9700-241,500114T,500214T,,,JABSCO,Inboard_Engines
+685,pump/pompa 9700-41,500114T,500214T,,,JABSCO,Inboard_Engines
+686,pump/pompa 9700-51,500114T,500214T,,,JABSCO,Inboard_Engines
+687,pump/pompa 9700-61,500114T,500214T,,,JABSCO,Inboard_Engines
+688,pump/pompa 9700-71,500114T,500214T,,,JABSCO,Inboard_Engines
+689,pump/pompa 9710,500114T,500214T,,,JABSCO,Inboard_Engines
+690,pump/pompa 9710-200,500114T,500214T,,,JABSCO,Inboard_Engines
+691,pump/pompa 9710-201,500114T,500214T,,,JABSCO,Inboard_Engines
+692,pump/pompa 9710-204,500114T,500214T,,,JABSCO,Inboard_Engines
+693,pump/pompa 9710-205,500114T,500214T,,,JABSCO,Inboard_Engines
+694,pump/pompa 9710-210,500114T,500214T,,,JABSCO,Inboard_Engines
+695,pump/pompa 9730,500114T,500214T,,,JABSCO,Inboard_Engines
+696,pump/pompa 9750,500114T,500214T,,,JABSCO,Inboard_Engines
+697,pump/pompa 9760,500114T,500214T,,,JABSCO,Inboard_Engines
+698,pump/pompa 9770-200,500114T,500214T,,,JABSCO,Inboard_Engines
+699,pump/pompa 9770-205,500114T,500214T,,,JABSCO,Inboard_Engines
+700,pump/pompa 9900-0001,500156GX,,,,JABSCO,Inboard_Engines
+701,pump/pompa 9970-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+702,pump/pompa 9970-204,500107GT,500207GT,,,JABSCO,Inboard_Engines
+703,pump/pompa 9970-241,500107GT,500207GT,,,JABSCO,Inboard_Engines
+704,pump/pompa 9970-251,500107GT,500207GT,,,JABSCO,Inboard_Engines
+705,pump/pompa 9970-261,500107GT,500207GT,,,JABSCO,Inboard_Engines
+706,pump/pompa 9970-271,500107GT,500207GT,,,JABSCO,Inboard_Engines
+707,pump/pompa 9970-281,500107GT,500207GT,,,JABSCO,Inboard_Engines
+708,pump/pompa 9990-200,500107GT,500207GT,,,JABSCO,Inboard_Engines
+709,pump/pompa 9990-201,500107GT,500207GT,,,JABSCO,Inboard_Engines
+710,pump/pompa 9990-21,500107GT,500207GT,,,JABSCO,Inboard_Engines
+711,pump/pompa 9990-41,500107GT,500207GT,,,JABSCO,Inboard_Engines
+712,pump/pompa AL/-200,500100GX,500200GX,,,JABSCO,Inboard_Engines
+713,pump/pompa AL/-204,500100GX,500200GX,,,JABSCO,Inboard_Engines
+714,pump/pompa JDfl-200,500102T,500202T,,,JABSCO,Inboard_Engines
+715,pump/pompa JDfl-201,500102T,500202T,,,JABSCO,Inboard_Engines
+716,pump/pompa JDfl-205,500102T,500202T,,,JABSCO,Inboard_Engines
+717,pump/pompa JDfl-208,500102T,500202T,,,JABSCO,Inboard_Engines

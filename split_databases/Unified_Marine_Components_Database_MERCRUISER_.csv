@@ -1,0 +1,157 @@
+Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
+1051,1A/1B/1C (1684188 - 1777798),500522K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1052,1A/1B/1C (EZ shift) (1776349 - 2065189),500522K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1053,2.8L (1998 and up),500106GT,,,,MERCRUISER ,Inboard_Engines
+1054,4.3L/LH (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1055,4.3L/LH (1998),500532,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1056,"4.3l EFI, 262 Mag",500532,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1057,4.3LX/LXH (1996-97),500532,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1058,5.0L (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1059,5.7L (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1060,5.7EFI (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1061,5.7L (SKI) - (A338553 - B514626),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1062,5.7L (SKI) - (A338553 - B514626),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1063,6.2L (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1064,8.1S HO,500159G,,,,MERCRUISER ,Inboard_Engines
+1065,8.1S Horizon,500159G,,,,MERCRUISER ,Inboard_Engines
+1066,120 (2.5L) - (6229718 >),500507,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1068,120 (2.5L) - (6229718 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1069,120 (2.5L) - (6229718 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1070,120 (2.5L) (3469428 >),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1071,120 (2.5L) (3469428 >),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1072,120 (2.5L) (3469428 >),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1073,120 (2.5L) (3469428 >),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1074,120/140 (2062141 - 3469427),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1075,120/140 (2062141 - 3469427),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1076,120/140 (2062141 - 3469427),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1077,120/140 (3.0L) (3469428-6225576),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1078,120/140 (3.0L) (3469428-6225576),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1079,120/140 (3.0L) (3469428-6225576),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1080,120/140 (3.0L) (3469428-6225576),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1081,140  (3332138-6229717),500524,,,Engine/Motore +,MERCRUISER ,Inboard_Engines
+1082,140 (3.0L) - (6229718 >),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1083,140 (3.0L) - (6229718 >),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1084,140 (3.0L) - (6229718 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1085,140 (3.0L) - (6229718 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1086,160 (2065190 -2763441),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1087,160 (2065190 -2763441),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1088,160 (2065190 -2763441),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1089,165 - (2770032 >),500524,,,Engine/Motore +,MERCRUISER ,Inboard_Engines
+1090,165 (4 cyl) (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1091,165 (4 cyl) (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1092,165 (4 cyl) (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1093,165 (4 cyl) (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1094,165 (6 cyl) (2763442 - 4890459),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1095,165 (6 cyl) (2763442 - 4890459),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1096,165 (6 cyl) (2763442 - 4890459),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1097,165 (6 cyl) (2763442 - 4890459),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1098,170/185/190/200/205/230 (6225577 - D494568),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1099,170/185/190/200/205/230 (6225577 - D494568),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1100,170/185/190/200/205/230 (6225577 - D494568),500516K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1102,170/190 - (6916779 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1103,170/190 - (6916779 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1104,175/180 (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1105,175/180 (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1106,175/180 (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1107,175/180 (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1108,185 - (6330183 - A331454),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1109,185 - (6330183 - A331454),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1110,185/205 - (A331455 >),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1111,185/205 - (A331455 >),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1112,185/205 - (A331455 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1113,185/205 - (A331455 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1114,200/230/260 - (6218462 >),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1115,200/230/260 - (6218462 >),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1116,200/230/260 - (6218462 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1117,200/230/260 - (6218462 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1118,225-S (3856268 - 4200499),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1119,225-S (3856268 - 4200499),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1120,225-S (3856268 - 4200499),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1121,225-S (3856268 - 4200499),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1122,228 - (4765100 - 5170008),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1123,228 - (4765100 - 5170008),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1124,228 - (4765100 - 5170008),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1125,228 - (4765100 - 5170008),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1126,233  (4200500 >),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1127,233  (4200500 >),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1128,233  (4200500 >),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1129,233  (4200500 >),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1130,250 - (4768000 - 4908849),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1131,250 - (4768000 - 4908849),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1132,250  (4791300 - 4898729),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1133,250  (4791300 - 4898729),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1134,250  (4791300 - 4898729),500516K,,,stern drive/gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1135,250  (4791300 - 4898729),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1136,255 TRS  (3377316 - 4203749),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1137,260 - (4908850 - 6218461),500511K,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1138,260 - (4908850 - 6218461),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1139,280 - (4176250 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1140,280 TRS  (4203750 - 4895399),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1141,320 EFI  (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1142,320 EFI  (all/tutti),500513K,,,stern drive/gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1143,320 EFI  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1144,320 EFI  (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1145,330 - (6083145 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1146,330 - (6083145 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1147,350 magnum  (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1148,350 magnum  (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1149,350 magnum  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1150,350 magnum  (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1151,350/454 magnum - (A635178 - F115700),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1152,350/454 magnum - (A635178 - F115700),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1153,454 magnum  (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1154,454 magnum  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1155,454 magnum (all/tutti),500109T,,,,MERCRUISER ,Inboard_Engines
+1156,470 (170 HP)  (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1157,470 (170 HP)  (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1158,470 (170 HP)  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1159,470 (170 HP)  (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1160,470 (170HP) - (4208730 - 5520114),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1161,470 (170HP) - (4208730 - 5520114),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1162,485 - (5685384 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1163,485 - (5685384 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1164,485 (185 HP)  (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1165,485 (185 HP)  (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1166,485 (185 HP)  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1167,485 (185 HP)  (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1168,488 - (6170297 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1169,488 - (6170297 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1170,488 (188 HP)  (all/tutti),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1171,488 (188 HP)  (all/tutti),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1172,488 (188 HP)  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1173,488 (188 HP)  (all/tutti),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1174,496 MAG (Base Model),500159G,,,,MERCRUISER ,Inboard_Engines
+1175,496 MAG (H.O. Model),500159G,,,,MERCRUISER ,Inboard_Engines
+1176,502 MAG (1998 and up),500109T,,,,MERCRUISER ,Inboard_Engines
+1177,888 (188 HP)  (3106717 >),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1178,888 (188 HP)  (3106717 >),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1179,888 (188 HP)  (3106717 >),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1180,888 (188 HP)  (3106717 >),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1181,898 (198HP) - (4762210 - 6218461),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1182,898 (198HP) - (4762210 - 6218461),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1183,898 (198HP) - (6218462 >),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1184,898 (198HP) - (6218462 >),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1185,898 (198HP) - (6218462 >),500511,,,Engine/Motore (dia.3”) -,MERCRUISER ,Inboard_Engines
+1186,898 (198HP) - (6218462 >),500523,,,Engine/Motore (dia.3”) +,MERCRUISER ,Inboard_Engines
+1187,898/228  (4782330 - 4898729),500512K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1188,898/228  (4782330 - 4898729),500513K,,,Stern drive/Gruppo poppiero (shift cable/tirante cambio),MERCRUISER ,Inboard_Engines
+1189,898/228  (4782330 - 4898729),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1190,898/228  (4782330 - 4898729),500520K,,,Stern drive/Gruppo poppiero (exhaust/scappamento),MERCRUISER ,Inboard_Engines
+1191,alpha generation II  (D469859 >),500515K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1192,bravo I & II - (all/tutti),500507,,,Engine/Motore (dia.4”) +,MERCRUISER ,Inboard_Engines
+1193,bravo I & II - (all/tutti),500508,,,Engine/Motore (dia.4”) -,MERCRUISER ,Inboard_Engines
+1194,bravo I/II & III  (all/tutti),500509K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1195,bravo I/II & III  (all/tutti),501009,,,Cooling hose/Manicotto acqua,MERCRUISER ,Inboard_Engines
+1196,bravo I/II (all/tutti),500109T,,SK0005,water pumps with a plastic 1 piece body,MERCRUISER ,Inboard_Engines
+1198,gen II alpha (all/tutti),500301,,BK0016,,MERCRUISER ,Inboard_Engines
+1199,I & alpha I (6225577-D469859),500313G,,SK0007,,MERCRUISER ,Inboard_Engines
+1200,I (2062141-26633441),500313G,,SK0007,,MERCRUISER ,Inboard_Engines
+1201,I (2663442-6225576),500313G,,SK0007,,MERCRUISER ,Inboard_Engines
+1202,II TRS  (all/tutti),500516K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1203,MC 1 (1684188-2495185) (1964-1968),500313G,,BK0004,,MERCRUISER ,Inboard_Engines
+1204,MC 1 (2495186-2763441) (1968-1969),500313G,,BK0004,,MERCRUISER ,Inboard_Engines
+1205,MC 1/R Alpha (2763442-6854392) (1970-1984),500313G,,BK0004,,MERCRUISER ,Inboard_Engines
+1206,"MC-1, 120 through/fino a  260 <1982",501000,,,,MERCRUISER ,Inboard_Engines
+1207,merc I  drive,500522K,,,Stern drive/Gruppo poppiero (u-joint/giunto),MERCRUISER ,Inboard_Engines
+1208,MR Alpha (6854393-D469858) (1984-1990),500313G,,BK0015,,MERCRUISER ,Inboard_Engines
+1209,"Fits early models 1A, 1B, 1C & EZ Shift (1964-1966)",501004,,,,MERCRUISER ,Inboard_Engines

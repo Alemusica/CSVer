@@ -1,0 +1,69 @@
+Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
+27,3.0 WMD (60Hz) 2.4 WMD (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+28,3.8/4.2 BCDT (60Hz) 3.5 BCDT (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+29,4.0 BCD (60Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+30,4.0 BCG (60Hz)3.0 BCG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+31,4.4 BCD (60Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+32,4.4 WMD (60Hz)3.3 WMD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+33,4.5 BCG (60Hz)3.75 BCG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+34,4.5 BCGB (60Hz)3.75 BCGB (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+35,4.5 BCGT (60Hz)3.75 BCGTC (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+36,5.0 BCD (60Hz)4.0 BCD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+37,5.0 BCDA (60Hz)4.0 BCDA (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+38,5.0 BCDB (60Hz)4.0 BCDB (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+39,5.0 BCG (60Hz) 4.2 BCG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+40,5.0 BCGA (60Hz) 5.2 BCGA (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+41,6.0 BCD (60Hz)4.5 BCD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+42,6.5 TWG (60Hz) 4.9 TWG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+43,7.0 BCG (60Hz)5.0 BCG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+44,7.0 BCGA (60Hz)5.0 BCGA (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+45,7.0 BCGB (60Hz)6.0 BCGB (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+46,7.0 BCGC (60Hz)5.9 BCGC (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+47,7.2 BCGTC (60Hz)6.0 BCGTC (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+48,7.6 BTD (60Hz)5.7 BTD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+49,7.7 WMD (60Hz)5.8 WMD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+50,8.0 BEG (60Hz)6.4 BEG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+51,8.0 BTD (60Hz)6.0 BTD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+52,8.0 TWG (60Hz) 6.4 TWG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+53,8.0 WMD (60Hz)6.0 WMD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+54,8.5 BTG (60Hz) 6.5 BTG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+55,9.0 BTG (60Hz)7.0 BTG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+56,9.6 BCGTC (60Hz)8.0 BCGTC (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+57,10.0 BEG (60Hz)8.0 BEG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+58,11.0 TWG (60Hz) 8.5 TWG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+59,12.5 BEG (60Hz)10.0 BEG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+60,15.0 BEG (60Hz)12.0 BEG (50Hz),500121GX,,,,WESTERBEKE,Generator_Impellers
+61,12.5 BTG (60Hz) 10.0 BTG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+62,15.0 BTG (60Hz) 12.0 BTG (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+63,15.0 BTGA (60Hz) 12.0 BTGA (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+64,20.0 WTA (60Hz) 16.0 WTA (50Hz),500166G,,,,WESTERBEKE,Generator_Impellers
+65,20.0 BEG (60Hz)16.0 BEG (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+66,25.0 BEG (60Hz)20.0 BEG (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+67,20.0 BED (60Hz)16.0 BED (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+68,20.0 BEDA (60Hz)16.0 BEDA (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+69,20.0 SBEG (60Hz)16.0 SBEG (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+70,20.0 SBEGA (60Hz)16.0 SBEGA (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+71,22.5 SBEG (60Hz)18.7 SBEG (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+72,22.5 SBEGA (60Hz)18.7 SBEGA (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+73,25.0 BED (60Hz)20.0 BED (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+74,25.0 WTA (60Hz)20.0 WTA (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+75,32.0 BED (60Hz)25.0 BED (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+76,32.0 BEDA (60Hz)25.0 BEDA (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+77,32.0 BEDB (60Hz)25.0 BEDB (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+78,32.0 WTF (60Hz)25.0 WTF (50Hz),500103GT,,,,WESTERBEKE,Generator_Impellers
+79,10.0 BTD (60Hz)7.5 BTD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+80,10.0 BTDA (60Hz)7.5 BTDA (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+81,11.0 BTD (60Hz)8.3 BTD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+82,11.0 WMD (60Hz)8.3 WMD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+83,12.5 BTD (60Hz)9.4 BTD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+84,12.5 BTDA (60Hz)9.4 BTDA (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+85,12.5 BTDB (60Hz)9.4 BTDB (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+86,12.5 WMD (60Hz)9.4 WMD (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+87,15.0 BTDC (60Hz)12.0 BTDC (50Hz),500101GX,,,,WESTERBEKE,Generator_Impellers
+2155,pump/pompa 11353,500103GT,,,,WESTERBEKE,Inboard_Engines
+2156,pump/pompa 16423,500103GT,,,,WESTERBEKE,Inboard_Engines
+2157,pump/pompa 16432,500120GT,,,,WESTERBEKE,Inboard_Engines
+2158,pump/pompa 24102,500166G,,,,WESTERBEKE,Inboard_Engines
+2159,pump/pompa 24143,500166G,,,,WESTERBEKE,Inboard_Engines
+2160,pump/pompa 32617,500121GX,,,,WESTERBEKE,Inboard_Engines
+2161,pump/pompa 38445,500103GT,,,,WESTERBEKE,Inboard_Engines
