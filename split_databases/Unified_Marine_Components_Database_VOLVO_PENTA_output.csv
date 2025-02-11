@@ -1423,3 +1423,27 @@ V8-320-CE-A,500178G,,,,VOLVO PENTA,Inboard_Engines,
 V8-320-CE-B,500178G,,,,VOLVO PENTA,Inboard_Engines,
 V8-320-E-A,500178G,,,,VOLVO PENTA,Inboard_Engines,
 V8-320-E-B,500178G,,,,VOLVO PENTA,Inboard_Engines,
+
+
+D6-300A-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), sostituisce #22994993",VOLVO PENTA,Inboard_Engines
+D6-340A-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), sostituisce #22994993",VOLVO PENTA,Inboard_Engines
+D6-380A-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), sostituisce #22994993",VOLVO PENTA,Inboard_Engines
+D6-400A-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), sostituisce #22994993",VOLVO PENTA,Inboard_Engines
+D6-440A-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), sostituisce #22994993",VOLVO PENTA,Inboard_Engines
+D6-300I-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), per versione Inboard",VOLVO PENTA,Inboard_Engines
+D6-340I-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), per versione Inboard",VOLVO PENTA,Inboard_Engines
+D6-380I-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), per versione Inboard",VOLVO PENTA,Inboard_Engines
+D6-440I-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), per versione Inboard",VOLVO PENTA,Inboard_Engines
+D6-480I-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), 480hp",VOLVO PENTA,Inboard_Engines
+D6-440I-WJ-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), Water-Jet",VOLVO PENTA,Inboard_Engines
+D6-480I-WJ-G,500162,,24139373,"Girante D6 new gen (12 pale Ø65mm), Water-Jet",VOLVO PENTA,Inboard_Engines
+D8A1-A MP,500162,,24139373,"D8 (A1) ~550hp, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D8A2-A MP,500162,,24139373,"D8 (A2) ~550hp, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D8A3-A MP,500162,,24139373,"D8 (A3) ~600hp, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D8A4-A MP,500162,,24139373,"D8 (A4) ~600hp, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D8A5-A MH,500162,,24139373,"D8 (A5) MH ausiliario, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D8A6-A MH,500162,,24139373,"D8 (A6) MH ausiliario, stessa girante D6, kit #24139373",VOLVO PENTA,Inboard_Engines
+D9A2 MH/MP,500177,,21730348,"D9 (A2) ~500hp, girante Ø65mm, 8 pale (Volvo #21730348), eq. Jabsco 17018",VOLVO PENTA,Inboard_Engines
+D11A-E MP,500177,,21730348,"D11 ~670hp, kit Volvo #21730348 (ex 3817587), eq. Jabsco 17018-0001",VOLVO PENTA,Inboard_Engines
+D13-900,500163,,3830459,"D13 900hp, girante grande (95mm) Volvo #3830459, eq. Jabsco 17938-0001",VOLVO PENTA,Inboard_Engines
+D13-1000,500163,,3830459,"D13 1000hp, kit Volvo #3830459, eq. Jabsco 17938-0001",VOLVO PENTA,Inboard_Engines
