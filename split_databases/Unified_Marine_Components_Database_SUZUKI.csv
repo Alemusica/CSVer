@@ -1,52 +1,63 @@
-Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
-4795,9.9/15 CV,500329,,,,SUZUKI,Outboard_Engines
-4796,9.9/8CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
-4797,90/115 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-4798,DF4 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
-4799,DF6 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
-4800,DF8AR (2010),500319,,,,SUZUKI,Outboard_Engines
-4801,"DF9,9 (2004-2010)",500319,,,,SUZUKI,Outboard_Engines
-4802,DF15 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
-4803,DF46 (2003-2008),500336,,,,SUZUKI,Outboard_Engines
-4804,DF60/DF70 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-4805,DF90 (2001-2008),500367,,,,SUZUKI,Outboard_Engines
-4806,DF99 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
-4807,DF100 (2009),500367,,,,SUZUKI,Outboard_Engines
-4808,DF115 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
-4809,DF140 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
-4810,DF175 (2006-2010),500367,,,,SUZUKI,Outboard_Engines
-4811,DF200 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-4812,DF225 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-4813,DF250 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-4814,DF300 (2007-2010),500393,,,,SUZUKI,Outboard_Engines
-4815,DT4 (1984-88),500336,,,,SUZUKI,Outboard_Engines
-4816,DT5 (1977-83),500336,,,,SUZUKI,Outboard_Engines
-4817,DT6 (1984-98),500336,,,,SUZUKI,Outboard_Engines
-4818,DT8 (2001),500336,,,,SUZUKI,Outboard_Engines
-4819,DT15 (1989-91),500319,,,,SUZUKI,Outboard_Engines
-4820,DT16 (1977-82),500398,,,,SUZUKI,Outboard_Engines
-4821,DT20 (1986-88),500362G,,,,SUZUKI,Outboard_Engines
-4822,DT20VE-25QD-25VE-30VE-30QD-40VE,500362G,,,,SUZUKI,Outboard_Engines
-4823,DT50 (1999-2005),500362G,,,,SUZUKI,Outboard_Engines
-4824,DT25 (1980-82),500398,,,,SUZUKI,Outboard_Engines
-4825,DT25 (1984-88),500362G,,,,SUZUKI,Outboard_Engines
-4826,DT25C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
-4827,DT28 (1980-82),500398,,,,SUZUKI,Outboard_Engines
-4828,DT30 (1984-87),500362G,,,,SUZUKI,Outboard_Engines
-4829,DT30C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
-4830,DT35 (1987-89),500362G,,,,SUZUKI,Outboard_Engines
-4831,DT40 (1983),500361,,,,SUZUKI,Outboard_Engines
-4832,DT40C (1984-95),500362G,,,,SUZUKI,Outboard_Engines
-4833,DT40VZ-DT40QD-DT50C-DT50D-DT50VZ,500361,,,,SUZUKI,Outboard_Engines
-4834,DT50QD-DT65VZ-DT60QD-DT65QD,500361,,,,SUZUKI,Outboard_Engines
-4835,DT50VE-DT60VE-DT75VE,500360,,,,SUZUKI,Outboard_Engines
-4836,DT55 (1985-97),500312,,,,SUZUKI,Outboard_Engines
-4837,DT65 (1985-97),500312,,,,SUZUKI,Outboard_Engines
-4838,DT75 (1985-97),500360,,,,SUZUKI,Outboard_Engines
-4839,DT85 (1985-97),500360,,,,SUZUKI,Outboard_Engines
-4840,DT90/DT100 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
-4841,DT115 (1981-2001),500367,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
-4842,DT140 (1986-2001),500367,,,,SUZUKI,Outboard_Engines
-4843,DT150 (1987-1996),500367,,,,SUZUKI,Outboard_Engines
-4844,DT200 (1986-2003),500367,,,,SUZUKI,Outboard_Engines
-4845,PU85 (jet) (1989-97),500393,,,,SUZUKI,Outboard_Engines
+Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
+9.9/15 CV,500329,,,,SUZUKI,Outboard_Engines
+9.9/8CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
+90/115 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF4 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
+DF6 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
+DF8AR (2010),500319,,,,SUZUKI,Outboard_Engines
+DF9,9 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
+DF15 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
+DF46 (2003-2008),500336,,,,SUZUKI,Outboard_Engines
+DF60/DF70 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF90 (2001-2008),500367,,,,SUZUKI,Outboard_Engines
+DF99 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
+DF100 (2009),500367,,,,SUZUKI,Outboard_Engines
+DF115 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
+DF140 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
+DF175 (2006-2010),500367,,,,SUZUKI,Outboard_Engines
+DF200 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF225 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF250 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF300 (2007-2010),500393,,,,SUZUKI,Outboard_Engines
+DT4 (1984-88),500336,,,,SUZUKI,Outboard_Engines
+DT5 (1977-83),500336,,,,SUZUKI,Outboard_Engines
+DT6 (1984-98),500336,,,,SUZUKI,Outboard_Engines
+DT8 (2001),500336,,,,SUZUKI,Outboard_Engines
+DT15 (1989-91),500319,,,,SUZUKI,Outboard_Engines
+DT16 (1977-82),500398,,,,SUZUKI,Outboard_Engines
+DT20 (1986-88),500362G,,,,SUZUKI,Outboard_Engines
+DT20VE-25QD-25VE-30VE-30QD-40VE,500362G,,,,SUZUKI,Outboard_Engines
+DT50 (1999-2005),500362G,,,,SUZUKI,Outboard_Engines
+DT25 (1980-82),500398,,,,SUZUKI,Outboard_Engines
+DT25 (1984-88),500362G,,,,SUZUKI,Outboard_Engines
+DT25C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
+DT28 (1980-82),500398,,,,SUZUKI,Outboard_Engines
+DT30 (1984-87),500362G,,,,SUZUKI,Outboard_Engines
+DT30C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
+DT35 (1987-89),500362G,,,,SUZUKI,Outboard_Engines
+DT40 (1983),500361,,,,SUZUKI,Outboard_Engines
+DT40C (1984-95),500362G,,,,SUZUKI,Outboard_Engines
+DT40VZ-DT40QD-DT50C-DT50D-DT50VZ,500361,,,,SUZUKI,Outboard_Engines
+DT50QD-DT65VZ-DT60QD-DT65QD,500361,,,,SUZUKI,Outboard_Engines
+DT50VE-DT60VE-DT75VE,500360,,,,SUZUKI,Outboard_Engines
+DT55 (1985-97),500312,,,,SUZUKI,Outboard_Engines
+DT65 (1985-97),500312,,,,SUZUKI,Outboard_Engines
+DT75 (1985-97),500360,,,,SUZUKI,Outboard_Engines
+DT85 (1985-97),500360,,,,SUZUKI,Outboard_Engines
+DT90/DT100 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
+DT115 (1981-2001),500367,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
+DT140 (1986-2001),500367,,,,SUZUKI,Outboard_Engines
+DT150 (1987-1996),500367,,,,SUZUKI,Outboard_Engines
+DT200 (1986-2003),500367,,,,SUZUKI,Outboard_Engines
+PU85 (jet) (1989-97),500393,,,,SUZUKI,Outboard_Engines
+DF9.9B (2018->)",500319,,,Uses same impeller as DF15A/20A,SUZUKI,Outboard_Engines
+"DF25A / DF30A (2014->)",500392,,,,SUZUKI,Outboard_Engines
+"DF100B (2017->)",500367,,,Shares DF90/115 Impeller,SUZUKI,Outboard_Engines
+"DF115BG / DF140BG (2021->)",500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
+"DF115B / DF140B / DF100C (2022->)",500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
+"DF150AP / DF175AP (2017->)",500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
+"DF150A / DF175A (2018->)",500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
+"DF200A / DF200AP (2015->)",500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
+"DF300B (2019->)",500393,,,Dual-prop variant shares V6 impeller #93J01,SUZUKI,Outboard_Engines
+"DF325A (2017->)",500393,,,Shares DF350A impeller #93J01,SUZUKI,Outboard_Engines
+"DF350A (2017->)",500393,,,Flagship 350HP (dual-prop) uses #93J01,SUZUKI,Outboard_Engines
