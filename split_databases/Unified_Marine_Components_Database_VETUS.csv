@@ -1,4 +1,4 @@
-Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
+Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
 1468,C4/6,500106GT,,,,VETUS,Inboard_Engines
 1469,K3/K4/3D,500146X,,,,VETUS,Inboard_Engines
 1470,L2/L3,500146X,,,,VETUS,Inboard_Engines
@@ -14,6 +14,6 @@ Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Appplicazione
 1480,DT43,500107GT,,,,VETUS,Inboard_Engines
 1481,DTA43,500107GT,,,,VETUS,Inboard_Engines
 1482,DT64,500106GT,,,,VETUS,Inboard_Engines
-1483,DTA64,500106GT,,,,VETUS,Inboard_Engines
-1484,DT67,500106GT,,,,VETUS,Inboard_Engines
+1483,DTA64,500106GT,,,DT67,VETUS,Inboard_Engines
+1484,,500106GT,,,,VETUS,Inboard_Engines
 1485,DTA67,500106GT,,,,VETUS,Inboard_Engines
