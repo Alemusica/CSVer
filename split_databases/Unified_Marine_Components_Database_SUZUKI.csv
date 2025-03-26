@@ -1,14 +1,18 @@
 Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
-9.9/15 CV,500329,,,,SUZUKI,Outboard_Engines
-9.9/8CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
-90/115 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+9.9 CV,500329,,,,SUZUKI,Outboard_Engines
+15 CV,500329,,,,SUZUKI,Outboard_Engines
+9.9 CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
+8 CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
+90 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+115 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
 DF4 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
 DF6 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
 DF8AR (2010),500319,,,,SUZUKI,Outboard_Engines
-DF9,9 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
+DF9.9 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
 DF15 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
 DF46 (2003-2008),500336,,,,SUZUKI,Outboard_Engines
-DF60/DF70 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF60 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
+DF70 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
 DF90 (2001-2008),500367,,,,SUZUKI,Outboard_Engines
 DF99 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
 DF100 (2009),500367,,,,SUZUKI,Outboard_Engines
@@ -26,7 +30,12 @@ DT8 (2001),500336,,,,SUZUKI,Outboard_Engines
 DT15 (1989-91),500319,,,,SUZUKI,Outboard_Engines
 DT16 (1977-82),500398,,,,SUZUKI,Outboard_Engines
 DT20 (1986-88),500362G,,,,SUZUKI,Outboard_Engines
-DT20VE-25QD-25VE-30VE-30QD-40VE,500362G,,,,SUZUKI,Outboard_Engines
+DT20VE,500362G,,,,SUZUKI,Outboard_Engines
+DT25QD,500362G,,,,SUZUKI,Outboard_Engines
+DT25VE,500362G,,,,SUZUKI,Outboard_Engines
+DT30VE,500362G,,,,SUZUKI,Outboard_Engines
+DT30QD,500362G,,,,SUZUKI,Outboard_Engines
+DT40VE,500362G,,,,SUZUKI,Outboard_Engines
 DT50 (1999-2005),500362G,,,,SUZUKI,Outboard_Engines
 DT25 (1980-82),500398,,,,SUZUKI,Outboard_Engines
 DT25 (1984-88),500362G,,,,SUZUKI,Outboard_Engines
@@ -37,27 +46,44 @@ DT30C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
 DT35 (1987-89),500362G,,,,SUZUKI,Outboard_Engines
 DT40 (1983),500361,,,,SUZUKI,Outboard_Engines
 DT40C (1984-95),500362G,,,,SUZUKI,Outboard_Engines
-DT40VZ-DT40QD-DT50C-DT50D-DT50VZ,500361,,,,SUZUKI,Outboard_Engines
-DT50QD-DT65VZ-DT60QD-DT65QD,500361,,,,SUZUKI,Outboard_Engines
-DT50VE-DT60VE-DT75VE,500360,,,,SUZUKI,Outboard_Engines
+DT40VZ,500361,,,,SUZUKI,Outboard_Engines
+DT40QD,500361,,,,SUZUKI,Outboard_Engines
+DT50C,500361,,,,SUZUKI,Outboard_Engines
+DT50D,500361,,,,SUZUKI,Outboard_Engines
+DT50VZ,500361,,,,SUZUKI,Outboard_Engines
+DT50QD,500361,,,,SUZUKI,Outboard_Engines
+DT65VZ,500361,,,,SUZUKI,Outboard_Engines
+DT60QD,500361,,,,SUZUKI,Outboard_Engines
+DT65QD,500361,,,,SUZUKI,Outboard_Engines
+DT50VE,500360,,,,SUZUKI,Outboard_Engines
+DT60VE,500360,,,,SUZUKI,Outboard_Engines
+DT75VE,500360,,,,SUZUKI,Outboard_Engines
 DT55 (1985-97),500312,,,,SUZUKI,Outboard_Engines
 DT65 (1985-97),500312,,,,SUZUKI,Outboard_Engines
 DT75 (1985-97),500360,,,,SUZUKI,Outboard_Engines
 DT85 (1985-97),500360,,,,SUZUKI,Outboard_Engines
-DT90/DT100 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
+DT90 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
+DT100 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
 DT115 (1981-2001),500367,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
 DT140 (1986-2001),500367,,,,SUZUKI,Outboard_Engines
 DT150 (1987-1996),500367,,,,SUZUKI,Outboard_Engines
 DT200 (1986-2003),500367,,,,SUZUKI,Outboard_Engines
 PU85 (jet) (1989-97),500393,,,,SUZUKI,Outboard_Engines
-DF9.9B (2018->)",500319,,,Uses same impeller as DF15A/20A,SUZUKI,Outboard_Engines
-"DF25A / DF30A (2014->)",500392,,,,SUZUKI,Outboard_Engines
-"DF100B (2017->)",500367,,,Shares DF90/115 Impeller,SUZUKI,Outboard_Engines
-"DF115BG / DF140BG (2021->)",500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
-"DF115B / DF140B / DF100C (2022->)",500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
-"DF150AP / DF175AP (2017->)",500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
-"DF150A / DF175A (2018->)",500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
-"DF200A / DF200AP (2015->)",500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
-"DF300B (2019->)",500393,,,Dual-prop variant shares V6 impeller #93J01,SUZUKI,Outboard_Engines
-"DF325A (2017->)",500393,,,Shares DF350A impeller #93J01,SUZUKI,Outboard_Engines
-"DF350A (2017->)",500393,,,Flagship 350HP (dual-prop) uses #93J01,SUZUKI,Outboard_Engines
+DF9.9B (2018->),500319,,,Uses same impeller as DF15A/20A,SUZUKI,Outboard_Engines
+DF25A (2014->),500392,,,,SUZUKI,Outboard_Engines
+DF30A (2014->),500392,,,,SUZUKI,Outboard_Engines
+DF100B (2017->),500367,,,Shares DF90/115 Impeller,SUZUKI,Outboard_Engines
+DF115BG (2021->),500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
+DF140BG (2021->),500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
+DF115B (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
+DF140B (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
+DF100C (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
+DF150AP (2017->),500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
+DF175AP (2017->),500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
+DF150A (2018->),500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
+DF175A (2018->),500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
+DF200A (2015->),500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
+DF200AP (2015->),500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
+DF300B (2019->),500393,,,Dual-prop variant shares V6 impeller #93J01,SUZUKI,Outboard_Engines
+DF325A (2017->),500393,,,Shares DF350A impeller #93J01,SUZUKI,Outboard_Engines
+DF350A (2017->),500393,,,Flagship 350HP (dual-prop) uses #93J01,SUZUKI,Outboard_Engines
