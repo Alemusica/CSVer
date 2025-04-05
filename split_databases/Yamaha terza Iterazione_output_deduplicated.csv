@@ -7,10 +7,10 @@ Applications	CEF Code	NBR Version	Kit Code	Remarks (Compatibility - years - note
 115	500371		6N6-W0078-02-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 (Ampia gamma 150~300 HP 2T/4T) (>=1992)	500371		61A-W0078-A3-00	Include F150, F200, F225, S/X/V/VZ, etc. Detailed listing. OEM code: 6E5-44352-01-00.	YAMAHA	General Application
 115 (no year)	500371		6N6-W0078-02-00	2-stroke. No specific year. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TJRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TJRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TJRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TJRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TJRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TJRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TJRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TJRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TJRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TJRZ (2001)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TLR (405)	500371		6N6-W0078-02-00	2-stroke. Apr 2005. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
@@ -22,10 +22,10 @@ Applications	CEF Code	NBR Version	Kit Code	Remarks (Compatibility - years - note
 115TLRB (2003)	500371		6N6-W0078-02-00	2-stroke. Year 2003. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TLRC (2004)	500371		6N6-W0078-02-00	2-stroke. Year 2004. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TLRD (2005)	500371		6N6-W0078-02-00	2-stroke. Year 2005. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TLRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TLRZ (2001)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TXR (405)	500371		6N6-W0078-02-00	2-stroke. Apr 2005. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
@@ -33,33 +33,33 @@ Applications	CEF Code	NBR Version	Kit Code	Remarks (Compatibility - years - note
 115TXRB (2003)	500371		6N6-W0078-02-00	2-stroke. Year 2003. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TXRC (2004)	500371		6N6-W0078-02-00	2-stroke. Year 2004. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TXRD (2005)	500371		6N6-W0078-02-00	2-stroke. Year 2005. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-115TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+115TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TXRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 115TXRZ (2001)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130 (<=1992)	500371		6E5-W0078-A1-00	2-stroke. Up to 1992 or older. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TLRA (2002)	500371		6N6-W0078-02-00	2-stroke. Year 2002. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TLRB (2003)	500371		6N6-W0078-02-00	2-stroke. Year 2003. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TLRC (2004)	500371		6N6-W0078-02-00	2-stroke. Year 2004. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TLRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TLRZ (2001)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TXRA (2002)	500371		6N6-W0078-02-00	2-stroke. Year 2002. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TXRB (2003)	500371		6N6-W0078-02-00	2-stroke. Year 2003. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TXRC (2004)	500371		6N6-W0078-02-00	2-stroke. Year 2004. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-130TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+130TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TXRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 130TXRZ (2001)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 15 (<= 1995)	500320		682-W0078-A1-00	Up to 1995. OEM code: 682-44352-03-00. OEM kit: 682-W0078-A1-00.	YAMAHA	Outboard Engines
 15 (>=1996)	500363		63V-W0078-02-00	Year >= 1996. Possibly 2- or 4-stroke. OEM code: 63V-44352-01-00.	YAMAHA	Outboard Engines
 15 (no year)	500371		6E5-W0078-A1-00	2-stroke. No specific year. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-150~225 (1996)	500371		61A-W0078-A1-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+150~225 (1996)	500371		61A-W0078-A1-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 150TJRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 150TLRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 150TXR (405)	500371			2-stroke. Year: Apr 2005. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
@@ -192,17 +192,17 @@ Applications	CEF Code	NBR Version	Kit Code	Remarks (Compatibility - years - note
 C115	500371		6E5-W0078-A1-00	2-stroke. (No specific year). OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C115 (>=1997)	500371		6N6-W0078-02-00	2-stroke. Year >= 1997. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C115 (no year)	500371		6E5-W0078-A1-00	2-stroke. No specific year. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C115TLRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C115TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C115TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C115TXRY (2000)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-C150 (1996)	500371		61A-W0078-A1-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+C150 (1996)	500371		61A-W0078-A1-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C150 (1997~1999)	500371		61A-W0078-A4-00	2-stroke or 4-stroke. Year range 1997–1999. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 C25 (1990~1997)	500326		689-W0078-A6-00	2-stroke. Produced 1990 to 1997. OEM code: 689-44352-02-00. OEM kit: 689-W0078-A6-00.	YAMAHA	Outboard Engines
 C30 (1990~1992)	500326		689-W0078-A6-00	2-stroke. Produced 1990 to 1992. OEM code: 689-44352-02-00. OEM kit: 689-W0078-A6-00.	YAMAHA	Outboard Engines
@@ -552,7 +552,7 @@ F350XCB (114)	500389			4-stroke. Year: Jan 2014. OEM code: 6AW-44352-00-00.	YAMA
 F350XCB (115)	500389			4-stroke. Year: Jan 2015. OEM code: 6AW-44352-00-00.	YAMAHA	Outboard Engines
 F350XCC (116)	500389			4-stroke. Year: Jan 2016. OEM code: 6AW-44352-00-00.	YAMAHA	Outboard Engines
 F4, F6 (>=Sep 2009)	500368		6EE-W0078-00-00	4-stroke. OEM code: 6E0-44352-00-00. (Produced from Sep 2009 onward.)	YAMAHA	Outboard Engines
-F40 (1999)	500316			4-stroke. F40 models of Year 1999. OEM code: 6H3-44352-00-00.	YAMAHA	Outboard Engines
+F40 (1999)	500316			4-stroke. F40 models of year 1999. OEM code: 6H3-44352-00-00.	YAMAHA	Outboard Engines
 F40BEJR (407)	500385		66T-W0078-00-00	4-stroke. April 2007. OEM code: 6H4-44352-02-00. OEM kit: 66T-W0078-00-00.	YAMAHA	Outboard Engines
 F40BMJH (407)	500385		66T-W0078-00-00	4-stroke. April 2007. OEM code: 6H4-44352-02-00. OEM kit: 66T-W0078-00-00.	YAMAHA	Outboard Engines
 F40BMLH (407)	500385		66T-W0078-00-00	4-stroke. April 2007. OEM code: 6H4-44352-02-00. OEM kit: 66T-W0078-00-00.	YAMAHA	Outboard Engines
@@ -692,11 +692,11 @@ FL350AET1U (410)	500389			4-stroke. Year: Apr 2010. OEM code: 6AW-44352-00-00.	Y
 FL350AET1X (410)	500389			4-stroke. Year: Apr 2010. OEM code: 6AW-44352-00-00.	YAMAHA	Outboard Engines
 FT9.9 (<= 1996)	500320		682-W0078-A1-00	High-thrust 4-stroke (F=4-stroke, T=High Thrust). Up to 1996. OEM code: 682-44352-03-00. OEM kit: 682-W0078-A1-00.	YAMAHA	Outboard Engines
 FT9.9 (2004 ~ Apr 2005)	500320		682-W0078-A3-00	High-thrust 4-stroke (F=4-stroke, T=High Thrust). Model years 2004 to April 2005. OEM code: 682-44352-03-00. OEM kit: 682-W0078-A3-00.	YAMAHA	Outboard Engines
-L130TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-L130TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-L130TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-L130TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-L150~L250 (1996)	500371		61A-W0078-A1-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+L130TXRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+L130TXRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+L130TXRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+L130TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+L150~L250 (1996)	500371		61A-W0078-A1-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 L200TXRV (1997)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 L200TXRW (1998)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 L200TXRX (1999)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
@@ -950,10 +950,10 @@ LZ300TXRD (2005)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard E
 """LZ300TXRD (2005)"	500371		61A-W0078-A4-00	"OEM code: 6E5-44352-01-00."""""	YAMAHA	"Outboard Engines"""
 MARLIN CARB				Selva engine. OEM code: 67F-44352-00-00.	SELVA	Outboard Engines
 MARLIN EFI				Selva engine. OEM code: 67F-44352-00-00.	SELVA	Outboard Engines
-P115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. Year 1993. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-P115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. Year 1994. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-P115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. Year 1995. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-P115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+P115TLRR (1993)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+P115TLRS (1994)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+P115TLRT (1995)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+P115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 P150 (≥1992)	500371		61A-W0078-A4-00	2-stroke or 4-stroke. Broad range from 1992 onward. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 P150 (1992~1996)	500371		61A-W0078-A1-00	2-stroke. Range 1992–1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 P175 (1994~1996)	500371		61A-W0078-A1-00	2-stroke. Range 1994–1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
@@ -979,13 +979,13 @@ P60TLHX (1999)	500316			OEM code: 6H3-44352-00-00.	YAMAHA	Outboard Engines
 P75 (1996)	500323			2-stroke. Year: 1996. OEM code: 688-44352-03-00.	YAMAHA	Outboard Engines
 PX150 (1999)	500371		61A-W0078-A4-00	2-stroke or 4-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 PX150TLRX (1999)	500371			2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-S115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-S115TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-S130TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+S115TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+S115TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+S130TLRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 S130TXRU (199?)	500371		6N6-W0078-00-00	2-stroke. Year incomplete: 199?. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-S130TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+S130TXRU (1996)	500371		6N6-W0078-00-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 S150 (≥1992)	500371		61A-W0078-A4-00	2-stroke or 4-stroke. Broad range from 1992 onward. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
-S150~S250 (1996)	500371		61A-W0078-A1-00	2-stroke. Year 1996. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
+S150~S250 (1996)	500371		61A-W0078-A1-00	2-stroke. OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 S175TXRV (1997)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 S175TXRW (1998)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
 S175TXRX (1999)	500371		61A-W0078-A4-00	OEM code: 6E5-44352-01-00.	YAMAHA	Outboard Engines
