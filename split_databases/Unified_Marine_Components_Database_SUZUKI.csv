@@ -1,89 +1,51 @@
-Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
-9.9 CV,500329,,,,SUZUKI,Outboard_Engines
-15 CV,500329,,,,SUZUKI,Outboard_Engines
-9.9 CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
-8 CV (<<-1995),500319,,,,SUZUKI,Outboard_Engines
-90 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-115 HP,500367,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF4 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
-DF6 (2004-2010),500336,,,,SUZUKI,Outboard_Engines
-DF8AR (2010),500319,,,,SUZUKI,Outboard_Engines
-DF9.9 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
-DF15 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
-DF46 (2003-2008),500336,,,,SUZUKI,Outboard_Engines
-DF60 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF70 (1998-2009),500365,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF90 (2001-2008),500367,,,,SUZUKI,Outboard_Engines
-DF99 (2004-2010),500319,,,,SUZUKI,Outboard_Engines
-DF100 (2009),500367,,,,SUZUKI,Outboard_Engines
-DF115 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
-DF140 (2002-2010),500367,,,,SUZUKI,Outboard_Engines
-DF175 (2006-2010),500367,,,,SUZUKI,Outboard_Engines
-DF200 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF225 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF250 (2004-2010),500393,,,4 strokes/4 tempi,SUZUKI,Outboard_Engines
-DF300 (2007-2010),500393,,,,SUZUKI,Outboard_Engines
-DT4 (1984-88),500336,,,,SUZUKI,Outboard_Engines
-DT5 (1977-83),500336,,,,SUZUKI,Outboard_Engines
-DT6 (1984-98),500336,,,,SUZUKI,Outboard_Engines
-DT8 (2001),500336,,,,SUZUKI,Outboard_Engines
-DT15 (1989-91),500319,,,,SUZUKI,Outboard_Engines
-DT16 (1977-82),500398,,,,SUZUKI,Outboard_Engines
-DT20 (1986-88),500362G,,,,SUZUKI,Outboard_Engines
-DT20VE,500362G,,,,SUZUKI,Outboard_Engines
-DT25QD,500362G,,,,SUZUKI,Outboard_Engines
-DT25VE,500362G,,,,SUZUKI,Outboard_Engines
-DT30VE,500362G,,,,SUZUKI,Outboard_Engines
-DT30QD,500362G,,,,SUZUKI,Outboard_Engines
-DT40VE,500362G,,,,SUZUKI,Outboard_Engines
-DT50 (1999-2005),500362G,,,,SUZUKI,Outboard_Engines
-DT25 (1980-82),500398,,,,SUZUKI,Outboard_Engines
-DT25 (1984-88),500362G,,,,SUZUKI,Outboard_Engines
-DT25C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
-DT28 (1980-82),500398,,,,SUZUKI,Outboard_Engines
-DT30 (1984-87),500362G,,,,SUZUKI,Outboard_Engines
-DT30C (1989-2000),500399,,,,SUZUKI,Outboard_Engines
-DT35 (1987-89),500362G,,,,SUZUKI,Outboard_Engines
-DT40 (1983),500361,,,,SUZUKI,Outboard_Engines
-DT40C (1984-95),500362G,,,,SUZUKI,Outboard_Engines
-DT40VZ,500361,,,,SUZUKI,Outboard_Engines
-DT40QD,500361,,,,SUZUKI,Outboard_Engines
-DT50C,500361,,,,SUZUKI,Outboard_Engines
-DT50D,500361,,,,SUZUKI,Outboard_Engines
-DT50VZ,500361,,,,SUZUKI,Outboard_Engines
-DT50QD,500361,,,,SUZUKI,Outboard_Engines
-DT65VZ,500361,,,,SUZUKI,Outboard_Engines
-DT60QD,500361,,,,SUZUKI,Outboard_Engines
-DT65QD,500361,,,,SUZUKI,Outboard_Engines
-DT50VE,500360,,,,SUZUKI,Outboard_Engines
-DT60VE,500360,,,,SUZUKI,Outboard_Engines
-DT75VE,500360,,,,SUZUKI,Outboard_Engines
-DT55 (1985-97),500312,,,,SUZUKI,Outboard_Engines
-DT65 (1985-97),500312,,,,SUZUKI,Outboard_Engines
-DT75 (1985-97),500360,,,,SUZUKI,Outboard_Engines
-DT85 (1985-97),500360,,,,SUZUKI,Outboard_Engines
-DT90 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
-DT100 (1990->>),500365,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
-DT115 (1981-2001),500367,,,2 strokes/2 tempi,SUZUKI,Outboard_Engines
-DT140 (1986-2001),500367,,,,SUZUKI,Outboard_Engines
-DT150 (1987-1996),500367,,,,SUZUKI,Outboard_Engines
-DT200 (1986-2003),500367,,,,SUZUKI,Outboard_Engines
-PU85 (jet) (1989-97),500393,,,,SUZUKI,Outboard_Engines
-DF9.9B (2018->),500319,,,Uses same impeller as DF15A/20A,SUZUKI,Outboard_Engines
-DF25A (2014->),500392,,,,SUZUKI,Outboard_Engines
-DF30A (2014->),500392,,,,SUZUKI,Outboard_Engines
-DF100B (2017->),500367,,,Shares DF90/115 Impeller,SUZUKI,Outboard_Engines
-DF115BG (2021->),500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
-DF140BG (2021->),500367,,,Drive-by-wire version, shares DF115/140 impeller,SUZUKI,Outboard_Engines
-DF115B (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
-DF140B (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
-DF100C (2022->),500367,,,Mechanically controlled, same impeller as DF115/140,SUZUKI,Outboard_Engines
-DF150AP (2017->),500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
-DF175AP (2017->),500367,,,Drive-by-wire 150/175HP, same impeller as DF150/175,SUZUKI,Outboard_Engines
-DF150A (2018->),500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
-DF175A (2018->),500367,,,Mechanical 150/175HP, same DF150/175 impeller,SUZUKI,Outboard_Engines
-DF200A (2015->),500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
-DF200AP (2015->),500367,,,Inline-4 200HP uses DF150/175 impeller,SUZUKI,Outboard_Engines
-DF300B (2019->),500393,,,Dual-prop variant shares V6 impeller #93J01,SUZUKI,Outboard_Engines
-DF325A (2017->),500393,,,Shares DF350A impeller #93J01,SUZUKI,Outboard_Engines
-DF350A (2017->),500393,,,Flagship 350HP (dual-prop) uses #93J01,SUZUKI,Outboard_Engines
+"4795","9.9/15 CV","500329",,,,"SUZUKI","OUTBOARD_ENGINES","(Poss. 2T pre-’95 o mix; verificare. Meglio 500319?)"
+"4796","9.9/8 CV","500319",,,,"SUZUKI","OUTBOARD_ENGINES","<<-1995 (OK per 2T/4T piccoli, ma vedi remark in col.6)"
+"4797","90/115 HP","500367",,,"4 STROKES/4 TEMPI","SUZUKI","OUTBOARD_ENGINES","(Generico: DF90/DF115 ~2001–06; vedi remark in col.6)"
+"4798","DF4","500336",,,,"SUZUKI","OUTBOARD_ENGINES","2004–2010 (OK, girante 4–6 HP: #500336 ≈ 17461-985M0)"
+"4799","DF6","500336",,,,"SUZUKI","OUTBOARD_ENGINES","2004–2010 (OK, idem come DF4/5/6: #500336)"
+"4800","DF8AR","500319",,,,"SUZUKI","OUTBOARD_ENGINES","2010 (Effettivo: DF8A usa stessa girante di DF9.9A: #500319)"
+"4801","DF9.9","500319",,,,"SUZUKI","OUTBOARD_ENGINES","2004–2010 (OK se parliamo di 4T carb. ~2004–05 o 2ª gen. fino al 2013)"
+"4802","DF15","500319",,,,"SUZUKI","OUTBOARD_ENGINES","2004–2010 (stessa girante 9.9–15 4T, #500319, vedi remark col.6)"
+"4803","DF46","500336",,,,"SUZUKI","OUTBOARD_ENGINES","2003–2008 (Probabile refuso: DF4/6, stessa girante 985M0. Verificare.)"
+"4804","DF60/DF70","500365",,,"4 STROKES/4 TEMPI","SUZUKI","OUTBOARD_ENGINES","1998–2009 (OK, #500365 ≈ 17461-87E12, 1ª gen. 4T)"
+"4805","DF90","500367",,,,"SUZUKI","OUTBOARD_ENGINES","2001–2008 (4T ~90HP 1ª gen.; #500367 = eccesso di modelli, vedi remark col.6)"
+"4806","DF99","500319",,,,"SUZUKI","OUTBOARD_ENGINES","2004–2010 (Probabile DF9.9 4T; #500319 girante 9.9/15 HP, vedi linee 4801/4802)"
+"4807","DF100","500367",,,,"SUZUKI","OUTBOARD_ENGINES","2009 (DF100 1ª serie ~2007–09, girante simile DF90/115, #500367. Verificare Lean Burn.)"
+"4808","DF115","500367",,,,"SUZUKI","OUTBOARD_ENGINES","2002–2010 (4T, girante 17461-90J02 in OEM. #500367 unisce 2T/4T, vedi col.6)"
+"4809","DF140","500367",,,,"SUZUKI","OUTBOARD_ENGINES","2002–2010 (idem DF115: 17461-90J02 in OEM; #500367 generico.)"
+"4810","DF175","500367",,,,"SUZUKI","OUTBOARD_ENGINES","2006–2010 (OEM = 90J02 iniziale, poi 96J01. CEF #500367 unisce troppi modelli.)"
+"4811","DF200","500393",,,"4 STROKES/4 TEMPI","SUZUKI","OUTBOARD_ENGINES","2004–2010 (V6 3.6L, OEM 17461-93J02; #500393 unisce V6 e 2T/PU85, vedi col.6)"
+"4812","DF225","500393",,,"4 STROKES/4 TEMPI","SUZUKI","OUTBOARD_ENGINES","2004–2010 (V6 3.6L, stesso discorso DF200/250. #500393)"
+"4813","DF250","500393",,,"4 STROKES/4 TEMPI","SUZUKI","OUTBOARD_ENGINES","2004–2010 (V6 3.6L. #500393 non distingue v6 dual prop. Verif. se DF250AP.)"
+"4814","DF300","500393",,,,"SUZUKI","OUTBOARD_ENGINES","2007–2010 (primo DF300 4.0L monoprop OK. #500393 = 93J02 in OEM. Non per DF300B dual prop!)"
+"4815","DT4","500336",,,,"SUZUKI","OUTBOARD_ENGINES","1984–88 (2T 4HP. #500336 = 17461-985M0. Verif. anni e dimensioni.)"
+"4816","DT5","500336",,,,"SUZUKI","OUTBOARD_ENGINES","1977–83 (2T. #500336 idem. Controllare anni reali e misure.)"
+"4817","DT6","500336",,,,"SUZUKI","OUTBOARD_ENGINES","1984–98 (2T 6HP. #500336. In OEM 17461-985M0.)"
+"4818","DT8","500336",,,,"SUZUKI","OUTBOARD_ENGINES","2001 (Potrebbe essere 92D02 in OEM, CEF unisce a 985M0. Verif. dimensioni.)"
+"4819","DT15","500319",,,,"SUZUKI","OUTBOARD_ENGINES","1989–91 (2T 15HP, OEM = 17461-939M0. #500319 plausibile aftermarket.)"
+"4820","DT16","500398",,,,"SUZUKI","OUTBOARD_ENGINES","1977–82 (2T. #500398 = generico? Verificare dimensioni girante.)"
+"4821","DT20","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1986–88 (2T. #500362G = kit/girante generico. Vedi remark col.6)"
+"4822","DT20VE-25QD-25VE-30VE-30QD-40VE","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","(Raggruppati modelli 2T var. anni ‘80/’90: Verif. dimensioni.)"
+"4823","DT50","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1999–2005 (2T 50HP fine serie? #500362G generico. Verificare OEM reali.)"
+"4824","DT25","500398",,,,"SUZUKI","OUTBOARD_ENGINES","1980–82 (2T 25HP. #500398. Anni e dimensioni da controllare.)"
+"4825","DT25","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1984–88 (2T. #500362G. Stessa avvertenza: dimensioni.)"
+"4826","DT25C","500399",,,,"SUZUKI","OUTBOARD_ENGINES","1989–2000 (2T 25 “C”. #500399. In OEM si usava 17461-964xx/96312. Verif.)"
+"4827","DT28","500398",,,,"SUZUKI","OUTBOARD_ENGINES","1980–82 (2T 28HP. #500398 generico, verif. misure.)"
+"4828","DT30","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1984–87 (2T 30HP. #500362G. Stessa avvertenza.)"
+"4829","DT30C","500399",,,,"SUZUKI","OUTBOARD_ENGINES","1989–2000 (2T 30 “C”. #500399. In OEM si usava 17461-964xx, vedi above.)"
+"4830","DT35","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1987–89 (2T 35HP. #500362G generico, verif. dimensioni.)"
+"4831","DT40","500361",,,,"SUZUKI","OUTBOARD_ENGINES","1983 (2T 40HP early. #500361. Potrebbe non coprire DT40C successivi.)"
+"4832","DT40C","500362G",,,,"SUZUKI","OUTBOARD_ENGINES","1984–95 (2T 40 “C”. #500362G kit/girante generico. In OEM 17461-96312 su versioni tardive.)"
+"4833","DT40VZ-DT40QD-DT50C-DT50D-DT50VZ","500361",,,,"SUZUKI","OUTBOARD_ENGINES","(Vari 2T 40–50. #500361 generico. Verificare OEM codici.)"
+"4834","DT50QD-DT65VZ-DT60QD-DT65QD","500361",,,,"SUZUKI","OUTBOARD_ENGINES","(Altri 2T 50–65. #500361, controllare dimensioni reali.)"
+"4835","DT50VE-DT60VE-DT75VE","500360",,,,"SUZUKI","OUTBOARD_ENGINES","(2T gamma 50–75 VE. #500360, generico. Distinguere kit/girante OEM.)"
+"4836","DT55","500312",,,,"SUZUKI","OUTBOARD_ENGINES","1985–97 (2T. In OEM kit 17400-94701. #500312 = CEF adattato.)"
+"4837","DT65","500312",,,,"SUZUKI","OUTBOARD_ENGINES","1985–97 (2T 65HP. Stesso discorso DT55. Verif. dimensioni girante.)"
+"4838","DT75","500360",,,,"SUZUKI","OUTBOARD_ENGINES","1985–97 (2T 75HP. In OEM kit 17400-95351. #500360 generico.)"
+"4839","DT85","500360",,,,"SUZUKI","OUTBOARD_ENGINES","1985–97 (2T 85HP. Stesso kit 17400-95351 in OEM.)"
+"4840","DT90/DT100","500365",,,"2 STROKES/2 TEMPI","SUZUKI","OUTBOARD_ENGINES","1990->> (Ok: usa girante 87E12 come DF60/70. #500365 plausibile.)"
+"4841","DT115","500367",,,"2 STROKES/2 TEMPI","SUZUKI","OUTBOARD_ENGINES","1981–2001 (2T V4. In OEM kit 17400-94611, no corrisp. 4T. #500367 generico.)"
+"4842","DT140","500367",,,,"SUZUKI","OUTBOARD_ENGINES","1986–2001 (2T V4. Stesso discorso DT115: kit 17400-94611. #500367 fuorviante.)"
+"4843","DT150","500367",,,,"SUZUKI","OUTBOARD_ENGINES","1987–1996 (2T V6. In OEM 17400-87D11. #500367 = 4T e 2T mix. Errore.)"
+"4844","DT200","500367",,,,"SUZUKI","OUTBOARD_ENGINES","1986–2003 (2T V6. OEM kit 17400-87D11. #500367 raggruppa troppi modelli.)"
+"4845","PU85 (jet)","500393",,,,"SUZUKI","OUTBOARD_ENGINES","1989–97 (Jet 85HP. #500393 = V6 4T? Sconsigliato, dimensioni da verificare.)"
