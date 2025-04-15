@@ -1,29 +1,29 @@
-Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
-4767,2.5 HP,500376,,,4 strokes/4 tempi,SELVA,Outboard_Engines
-4768,3.5 HP,500376,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4769,4 HP,500376,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4770,5 HP,500375,,,4 strokes/4 tempi  OYSTER,SELVA,Outboard_Engines
-4771,6 HP,500375,,,4 strokes/4 tempi  OYSTER,SELVA,Outboard_Engines
-4772,6/8/9.9,500387,,,4 strokes/4 tempi,SELVA,Outboard_Engines
-4773,7.5 HP,500375,,,BLACK BASS,SELVA,Outboard_Engines
-4774,8 HP,500368,,,Type RAY,SELVA,Outboard_Engines
-4775,9.9 HP,500363,,,Type PIKE,SELVA,Outboard_Engines
-4776,"9,9 / 15 HP",500387,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4777,15 HP,500363,,,Type WAHOO,SELVA,Outboard_Engines
-4778,20 HP,500363,,,Type WAHOO,SELVA,Outboard_Engines
-4779,25 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4780,30 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4781,35 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4782,25 HP,500385G,,,Type KINGFISH,SELVA,Outboard_Engines
-4783,40 HP,500385G,,,Type ARUANA E.F.I.,SELVA,Outboard_Engines
-4784,40 HP,500316,,,Type DORADO40XS-XSR,SELVA,Outboard_Engines
-4785,40 HP & Over,500304,,,2 strokes/2 tempi,SELVA,Outboard_Engines
-4786,50 HP,500316,,,Type DORADO E.F.I.,SELVA,Outboard_Engines
-4787,60 HP,500316,,,Type DORADO E.F.I.,SELVA,Outboard_Engines
-4788,80 HP,500364,,,Type MARLIN E.F.I.,SELVA,Outboard_Engines
-4789,100 HP,500364,,,Type MARLIN E.F.I.,SELVA,Outboard_Engines
-4790,115 HP,500371,,,Type NARWHAL E.F.I.,SELVA,Outboard_Engines
-4791,150 HP,500371,,,Type KILLER WHALE E.F.I.,SELVA,Outboard_Engines
-4792,200 HP,500371,,,Type GREY WHALE E.F.I.,SELVA,Outboard_Engines
-4793,225 HP,500371,,,Type FIN WHALE E.F.I.,SELVA,Outboard_Engines
-4794,250 HP,500371,,,Type BLUE WHALE E.F.I.,SELVA,Outboard_Engines
+Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
+2.5 HP,500376,,,4 strokes/4 tempi,SELVA,Outboard_Engines
+3.5 HP,500376,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+4 HP,500376,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+5 HP,500375,,,4 strokes/4 tempi  OYSTER,SELVA,Outboard_Engines
+6 HP,500375,,,4 strokes/4 tempi  OYSTER,SELVA,Outboard_Engines
+6/8/9.9,500387,,,4 strokes/4 tempi,SELVA,Outboard_Engines
+7.5 HP,500375,,,BLACK BASS,SELVA,Outboard_Engines
+8 HP,500368,,,Type RAY,SELVA,Outboard_Engines
+9.9 HP,500363,,,Type PIKE,SELVA,Outboard_Engines
+"9,9 / 15 HP",500387,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+15 HP,500363,,,Type WAHOO,SELVA,Outboard_Engines
+20 HP,500363,,,Type WAHOO,SELVA,Outboard_Engines
+25 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+30 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+35 HP,500386,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+25 HP,500385G,,,Type KINGFISH,SELVA,Outboard_Engines
+40 HP,500385G,,,Type ARUANA E.F.I.,SELVA,Outboard_Engines
+40 HP,500316,,,Type DORADO40XS-XSR,SELVA,Outboard_Engines
+40 HP & Over,500304,,,2 strokes/2 tempi,SELVA,Outboard_Engines
+50 HP,500316,,,Type DORADO E.F.I.,SELVA,Outboard_Engines
+60 HP,500316,,,Type DORADO E.F.I.,SELVA,Outboard_Engines
+80 HP,500364,,,Type MARLIN E.F.I.,SELVA,Outboard_Engines
+100 HP,500364,,,Type MARLIN E.F.I.,SELVA,Outboard_Engines
+115 HP,500371,,,Type NARWHAL E.F.I.,SELVA,Outboard_Engines
+150 HP,500371,,,Type KILLER WHALE E.F.I.,SELVA,Outboard_Engines
+200 HP,500371,,,Type GREY WHALE E.F.I.,SELVA,Outboard_Engines
+225 HP,500371,,,Type FIN WHALE E.F.I.,SELVA,Outboard_Engines
+250 HP,500371,,,Type BLUE WHALE E.F.I.,SELVA,Outboard_Engines

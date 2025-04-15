@@ -1,12 +1,12 @@
-Id,Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
-7,8E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
-8,8E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
-9,10E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
-10,10E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
-11,12.5E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
-12,12.5CF (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
-13,12.5E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
-14,12.5CF (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
-15,15C,500165G,,,,KOHLER,Generator_Impellers
-16,16CF,500165G,,,,KOHLER,Generator_Impellers
-17,20C,500165G,,,,KOHLER,Generator_Impellers
+Applications,Cef,NBR Version,Kit,Remarks,Company,Tipologia Applicazione
+8E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
+8E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
+10E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
+10E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
+12.5E (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
+12.5CF (SN 296898 and Below),500129,,,,KOHLER,Generator_Impellers
+12.5E (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
+12.5CF (SN 296899 and Up),500165G,,,,KOHLER,Generator_Impellers
+15C,500165G,,,,KOHLER,Generator_Impellers
+16CF,500165G,,,,KOHLER,Generator_Impellers
+20C,500165G,,,,KOHLER,Generator_Impellers
